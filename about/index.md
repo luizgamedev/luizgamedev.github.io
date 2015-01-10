@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: About Me
 tags: [blog]
 modified: 2015-01-09T20:53:07.573882-04:00
 comments: true
