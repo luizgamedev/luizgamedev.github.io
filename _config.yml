@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            "KaZe's Mind"
+title:            "Kaze's Mind"
 locale:           en_US
 url:              
 
@@ -28,8 +28,8 @@ kramdown:
 owner:
   name: Luiz Guilherme
   avatar: me.png
-  bio: "Describe your self."
-  email: contact@kaze.io
+  bio: "Software Engineer, Researcher, GameDev"
+  email: luiz@kaze.io
   disqus-shortname: kazeio
   twitter: kazenotenshi
   facebook: kazenotenshi
