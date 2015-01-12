@@ -37,8 +37,8 @@ owner:
     plus: #username
     analytics: UA-58347343-1
     verify: 
-    ad-client:
-    ad-slot: 
+    ad-client: "ca-pub-5447213706109611"
+    ad-slot: 2221748488
   bing-verify: 
   github: kazenotenshi
   stackoverflow: #http://stackoverflow.com/users/123456/username
