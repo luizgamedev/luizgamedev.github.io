@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Hello World"
-modified:
+modified: 
 categories: Programming
-excerpt:
+excerpt: "Everything has its begining"
 comments: true
 tags: [Programming]
 image:
