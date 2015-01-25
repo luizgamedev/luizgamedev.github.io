@@ -2,7 +2,7 @@
 layout: post
 title: "The Nostalgic Wololo"
 modified:
-categories:
+categories: Games
 excerpt: "Start the game already!"
 tags: [Game, Age Of Empires, RTS]
 comments: true
