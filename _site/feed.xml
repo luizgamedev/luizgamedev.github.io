@@ -4,13 +4,185 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-01-25T21:32:48-02:00</updated>
+<updated>2015-01-29T22:07:57-02:00</updated>
 <id>/</id>
 <author>
   <name>Luiz Guilherme</name>
   <uri>/</uri>
   <email>luiz@kaze.io</email>
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[P.hD Diary - PCL Installation and Configuration on OSX]]></title>
+  <link rel="alternate" type="text/html" href="/phd/p-hd-diary-pcl-installation-and-configuration-on-osx/" />
+  <id>/phd/p-hd-diary-pcl-installation-and-configuration-on-osx</id>
+  <published>2015-01-29T21:02:44-02:00</published>
+  <updated>2015-01-29T21:02:44-02:00</updated>
+  <author>
+    <name>Luiz Guilherme</name>
+    <uri></uri>
+    <email>luiz@kaze.io</email>
+  </author>
+  <content type="html">&lt;p&gt;As a part of my investigatory phase right now I was looking for good libraries that work good with Kinect. My personal computer is an old pacman Macbook Pro that is been very good thru all these years.  In this post I’ll explain how to setup a Mac properly to use PCL libraries ( no nostalgic posts right now ). For more information about the library itself visit &lt;a href=&quot;http://pointclouds.org/&quot;&gt;http://pointclouds.org/&lt;/a&gt;. This tutorial was done in a machine with OSX 10.10 ( Yosemite ), 4GB DDR3 memory and a Core2Duo Processor. Differences for different configurations may happen.&lt;/p&gt;
+
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/x3SaWQkPsPI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;PCL Kinect Example&lt;/p&gt;
+
+&lt;p&gt;My biggest challenge here was to see which of the (old) tutorials [ &lt;a href=&quot;http://pointclouds.org/downloads/macosx.html&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;http://www.pcl-users.org/file/n4022018/PCL_Development_Build_-_Mac_OS_X.pdf&quot;&gt;2&lt;/a&gt;, &lt;a href=&quot;https://github.com/totakke/homebrew-openni2&quot;&gt;3&lt;/a&gt;, &lt;a href=&quot;http://www.pointclouds.org/documentation/tutorials/installing_homebrew.php&quot;&gt;4&lt;/a&gt;, &lt;a href=&quot;http://digitizor.com/2014/06/29/fix-cowardly-refusing-sudo-error-brew/&quot;&gt;5&lt;/a&gt;, among others… ] I’ve found was technically right. Before anyone say that solve this in other way, I’d say that this was the simpler one that choose. I do love free libraries and collaborative softwares, but I prefer to get a very good closed and tested package with all the dependencies configured rather then compile all in a hard way. This solution tries to rely as much as possible in brew ( a package manager for OSX ), and cmake. There are other solutions that use macports and/or manual compilation. I found these harder than using brew.&lt;/p&gt;
+
+&lt;h2 id=&quot;assumptions&quot;&gt;Assumptions&lt;/h2&gt;
+
+&lt;p&gt;I assume that everyone here has a Mac with Xcode installed and configured. Also, you must ( If you haven’t already ) have the Command Line Tools installed. If you don’t, download Xcode via App Store, then create a developer account at &lt;a href=&quot;http://developer.apple.com&quot;&gt;Apple Developer Website&lt;/a&gt;, go to the  &lt;a href=&quot;https://developer.apple.com/downloads/index.action&quot;&gt;download section&lt;/a&gt; and get the pkg to install. Its installation is purely straightforward.&lt;/p&gt;
+
+&lt;h2 id=&quot;brew-packages&quot;&gt;Brew Packages&lt;/h2&gt;
+
+&lt;h3 id=&quot;installing-brew&quot;&gt;Installing Brew&lt;/h3&gt;
+
+&lt;p&gt;First things first, lets install brew. It pretty simple, just open a terminal window and type:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;ruby -e &lt;span class=&quot;s2&quot;&gt;&amp;quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;This will automatically get and install all the necessary binaries to run the package. After installing, I’ve made a simple config to use sudo with brew because of some permission errors I was having in my machine. This is totally optional, but if you face these problems just type:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;sudo chown root:wheel &lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;which brew&lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;installing-pcl-dependencies&quot;&gt;Installing PCL Dependencies&lt;/h3&gt;
+
+&lt;p&gt;Before installing PCL, there are some dependencies that you must install ( and make sure that they are properly linked ). They are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Boost 1.57&lt;/li&gt;
+  &lt;li&gt;Flann 1.8.4&lt;/li&gt;
+  &lt;li&gt;Qt 4.8.6&lt;/li&gt;
+  &lt;li&gt;GLEW 1.11&lt;/li&gt;
+  &lt;li&gt;VTK 6.1.0&lt;/li&gt;
+  &lt;li&gt;Openni 1.5.8 and 2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;One of the good things of using a package manager is that is easy to find and trigger an installation of all these dependencies. In brew, you must “tap” two repositories and before installing these packages. The commands are:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;sudo brew update
+sudo brew tap homebrew/science
+sudo brew tap totakke/openni2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;It will download some git repositories with information about those packages. Finally, to install the dependencies just type:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;sudo brew install -vd sip pyqt libusb cmake boost flann qhull glew qt vtk openni openni2 openni2-freenectdriver&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;It will take a long time, enjoy a good book in the middle time =)&lt;/p&gt;
+
+&lt;h3 id=&quot;pcl-install&quot;&gt;PCL Install&lt;/h3&gt;
+
+&lt;p&gt;Similar to the previous step, now we just have to tell brew to install PCL with the command:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;sudo brew install -vd pcl --HEAD --with-openni --with-examples&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Just a little parentheses here. The option “—HEAD” says that it gonna get the HEAD of PCL repository, which is now PCL 1.8. In their website, the downloadable version is 1.6. I had a lot of trouble using the 1.6 under Yosemite, so I do not recommend using it. The “–with-openni” option will assume that you’re gonna use this library with PCL ( which is optional, but mandatory if you’d like to use Kinect Viewer ).&lt;/p&gt;
+
+&lt;p&gt;Again, grab a good book and wait for a long compile time.&lt;/p&gt;
+
+&lt;h2 id=&quot;post-configs&quot;&gt;Post Configs&lt;/h2&gt;
+
+&lt;p&gt;If everything went well ( and I hope it did ), there’s some post configs you must do. For OpenNi 2 libs you must export some environments vars using:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;OPENNI2_INCLUDE&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/usr/local/include/ni2
+&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;OPENNI2_REDIST&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/usr/local/lib/ni2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;You might want to put these commands on your ~/.bash_profile as well to avoid doing this command again.&lt;/p&gt;
+
+&lt;h2 id=&quot;building-and-testing&quot;&gt;Building and Testing&lt;/h2&gt;
+
+&lt;p&gt;Following the &lt;a href=&quot;http://pointclouds.org/documentation/tutorials/openni_grabber.php#openni-grabber&quot;&gt;Kinect Example&lt;/a&gt; found in their site, and making some few modifications, lets make a simple test just to show Kinect’s video. Create a file called open_viewer_simple.cpp with the following code:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cpp&quot; data-lang=&quot;cpp&quot;&gt;&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;pcl/io/openni_grabber.h&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;pcl/visualization/cloud_viewer.h&amp;gt;&lt;/span&gt;
+
+ &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;SimpleOpenNIViewer&lt;/span&gt;
+ &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+   &lt;span class=&quot;k&quot;&gt;public&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;
+     &lt;span class=&quot;n&quot;&gt;SimpleOpenNIViewer&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;viewer&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;PCL OpenNI Viewer&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
+
+     &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cloud_cb_&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pcl&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PointCloud&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pcl&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PointXYZ&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ConstPtr&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cloud&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+     &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+       &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;viewer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;wasStopped&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;
+         &lt;span class=&quot;n&quot;&gt;viewer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;showCloud&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cloud&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+     &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;run&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+     &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+       &lt;span class=&quot;n&quot;&gt;pcl&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Grabber&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;interface&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pcl&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;OpenNIGrabber&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+
+       &lt;span class=&quot;n&quot;&gt;boost&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pcl&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PointCloud&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pcl&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PointXYZ&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ConstPtr&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;
+         &lt;span class=&quot;n&quot;&gt;boost&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;bind&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;SimpleOpenNIViewer&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cloud_cb_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;_1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+       &lt;span class=&quot;n&quot;&gt;interface&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;registerCallback&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+       &lt;span class=&quot;n&quot;&gt;interface&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;start&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+
+       &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;viewer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;wasStopped&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;
+       &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+         &lt;span class=&quot;n&quot;&gt;boost&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;this_thread&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sleep&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;boost&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;posix_time&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;seconds&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+       &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+       &lt;span class=&quot;n&quot;&gt;interface&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;stop&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+     &lt;span class=&quot;n&quot;&gt;pcl&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;visualization&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;CloudViewer&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;viewer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+ &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+ &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+   &lt;span class=&quot;n&quot;&gt;SimpleOpenNIViewer&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;v&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;n&quot;&gt;v&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;run&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+   &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;And also, a CMakeLists.txt in the same folder with the following content:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;cmake_minimum_required&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;VERSION 2.8 FATAL_ERROR&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+
+project&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;openni_grabber&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+
+find_package&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;PCL 1.2 REQUIRED&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+
+include_directories&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;PCL_INCLUDE_DIRS&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+link_directories&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;PCL_LIBRARY_DIRS&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+add_definitions&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;PCL_DEFINITIONS&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+
+IF &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;APPLE&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+    FIND_PATH&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt; GLEW_INCLUDE_DIR glew.h
+      /System/Library/Frameworks/GLEW.framework/Versions/A/Headers
+      &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;OPENGL_LIBRARY_DIR&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+    SET&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;GLEW_GLEW_LIBRARY &lt;span class=&quot;s2&quot;&gt;&amp;quot;-lGLEW&amp;quot;&lt;/span&gt; CACHE STRING &lt;span class=&quot;s2&quot;&gt;&amp;quot;GLEW library for OSX&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+    SET&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;GLEW_cocoa_LIBRARY &lt;span class=&quot;s2&quot;&gt;&amp;quot;-framework Cocoa&amp;quot;&lt;/span&gt; CACHE STRING &lt;span class=&quot;s2&quot;&gt;&amp;quot;Cocoa framework for OSX&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+  ENDIF &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;APPLE&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+add_executable &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;openni_grabber openni_viewer_simple.cpp&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+target_link_libraries &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;openni_grabber &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;PCL_LIBRARIES&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Another parentheses here. I added the IF(APPLE) section because somehow make was getting a different configuration for GLEW which broke the compilation. This block is to make sure the the flag “-lGLEW” is called instead of “-framework GLEW”. Since we’ve installed everything via brew, this is the right way to call GLEW library&lt;/p&gt;
+
+&lt;p&gt;Now let’s build everything. In a terminal type:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;mkdir build
+&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;build
+cmake ..&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;In the build folder you may have an executable called “openni_grabber”. Just execute it typing:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;./openni_grabber&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;conclusions&quot;&gt;Conclusions&lt;/h2&gt;
+
+&lt;p&gt;After a week of building PCL in many different ways, this was the one that worked and was easiest to reproduce. Since this is not clearly found in one tutorial, I thought it was worth of a blog post. I still have some issues related to the library, but I’ll may write it down in a future opportunity.&lt;/p&gt;
+
+&lt;p&gt;If you read until here, thanks! Leave a feedback in the comments, and see ya!&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/phd/p-hd-diary-pcl-installation-and-configuration-on-osx/&quot;&gt;P.hD Diary - PCL Installation and Configuration on OSX&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;&quot;&gt;Kaze's Mind&lt;/a&gt; on January 29, 2015.&lt;/p&gt;</content>
+</entry>
 
 
   
