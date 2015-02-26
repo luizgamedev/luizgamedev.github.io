@@ -2,7 +2,7 @@
 layout: post
 title: "A Different View of the Scrum Master Role"
 modified:
-categories:
+categories: Scrum
 excerpt: "I'm not a manager!"
 tags: [Agile, Scrum, Programming, Research]
 comments: true
