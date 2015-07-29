@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>/gamedev/programming/unity3d/asteroids-game-player-input/</loc>
+    <lastmod>2015-07-29T19:45:40-03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>/game/development/unity-quick-tips-using-microsoft-visual-studio-code-instead-of-monodevelop/</loc>
     <lastmod>2015-07-04T21:32:42-03:00</lastmod>
     <priority>0.8</priority>
@@ -47,37 +52,37 @@
   </url>
   <url>
     <loc>/about/</loc>
-    <lastmod>2015-07-22T19:53:05-03:00</lastmod>
+    <lastmod>2015-07-29T20:03:26-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/</loc>
-    <lastmod>2015-07-22T19:53:05-03:00</lastmod>
+    <lastmod>2015-07-29T20:03:26-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>/portifolio/</loc>
-    <lastmod>2015-07-22T19:53:05-03:00</lastmod>
+    <lastmod>2015-07-29T20:03:26-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/posts/</loc>
-    <lastmod>2015-07-22T19:53:05-03:00</lastmod>
+    <lastmod>2015-07-29T20:03:26-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/theme-setup/</loc>
-    <lastmod>2015-07-22T19:53:05-03:00</lastmod>
+    <lastmod>2015-07-29T20:03:26-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/photography/</loc>
-    <lastmod>2015-07-22T19:53:05-03:00</lastmod>
+    <lastmod>2015-07-29T20:03:26-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
