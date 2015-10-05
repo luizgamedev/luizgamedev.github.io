@@ -18,7 +18,7 @@ If you're interested in talking to me about it, please feel free to send me an <
 Some websites of my work and GameDev that I have participated:
 
 * Github page: <a href="http://www.github.com/kazenotenshi">www.github.com/kazenotenshi</a>
-* Favela Wars Game <a href="http://www.faverawars.com">http://www.faverawars.com</a>
+* Favela Wars Game <a href="http://www.favelawars.com">http://www.favelawars.com</a>
 * GlobalGameJam Profile: <a href="http://globalgamejam.org/users/kazenotenshi">http://globalgamejam.org/users/kazenotenshi</a>
 
 
