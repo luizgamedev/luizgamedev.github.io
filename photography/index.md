@@ -16,6 +16,6 @@ I started with a Nikon 3100, the simplest model I have found ( and cheapest as w
 
 Today, I have another camera, but the passion remains. I still read a lot of new techniques and still have a long way in this hobby, but I'm loving this kind of art and expression. I'd love to talk about it as well. I'll let my instagram and flickr below.
 
-Flickr : <a href="www.flickr.com/kazenotenshi">www.flickr.com/kazenotenshi</a>
+Flickr : <a href="http://www.flickr.com/kazenotenshi">www.flickr.com/kazenotenshi</a>
 
-Instagram : <a href="www.instagram.com/kazenotenshi">www.instagram.com/kazenotenshi</a>
+Instagram : <a href="http://www.instagram.com/kaze_">www.instagram.com/kaze_</a>
