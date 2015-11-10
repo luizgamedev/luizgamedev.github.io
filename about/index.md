@@ -7,7 +7,7 @@ comments: true
 image:
   feature: mysample-02.jpg
   credit: Luiz Guilherme Oliveira dos Santos
-  creditlink: http://flickr.com/kazenotenshi
+  creditlink: https://www.facebook.com/luizsantosphotos
 ---
 
 Who am I?

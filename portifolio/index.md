@@ -7,7 +7,7 @@ comments: true
 image:
   feature: mysample-01.JPG
   credit: Luiz Guilherme Oliveira dos Santos
-  creditlink: http://flickr.com/kazenotenshi
+  creditlink: https://www.facebook.com/luizsantosphotos
 ---
 
 If you're interested in talking to me about it, please feel free to send me an <a href="mailto:luiz@kaze.io">email</a>. Some of my work includes (but not limits to) :
