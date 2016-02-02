@@ -102,7 +102,7 @@ I’m proud of my team of making it viable and have a playable version at the en
 </figure>
 </div>
 
-##Conclusion
+## Conclusion
 
 The Global Game Jam is for game developers an amazing opportunity to meet new people, learn new things, have fun, create more portfolio and eating pizza while you listen to ukuleles in our case. Mind your scope and your limits. Respect people’s limits as well, and know that are more things important at stake. Do something you are proud of, and it will be valuable for you personally and professionally. And always have fun.
 
