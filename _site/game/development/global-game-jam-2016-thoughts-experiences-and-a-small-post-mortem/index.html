@@ -1,0 +1,378 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Global Game Jam 2016 - Thoughts, Experiences and a Small Post-Mortem &#8211; Kaze's Mind</title>
+<meta name="description" content="Status Report: Lack of sleep, Diabetes, Pizza Saturated fat, Bugs, Engine Crashing, more bugs...">
+<meta name="keywords" content="Global Game Jam, Game Development, Game Design, Team Work">
+
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Global Game Jam 2016 - Thoughts, Experiences and a Small Post-Mortem">
+<meta name="twitter:description" content="Status Report: Lack of sleep, Diabetes, Pizza Saturated fat, Bugs, Engine Crashing, more bugs...">
+<meta name="twitter:site" content="@kazenotenshi">
+<meta name="twitter:creator" content="@kazenotenshi">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="/images/default-thumb.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Global Game Jam 2016 - Thoughts, Experiences and a Small Post-Mortem">
+<meta property="og:description" content="Status Report: Lack of sleep, Diabetes, Pizza Saturated fat, Bugs, Engine Crashing, more bugs...">
+<meta property="og:url" content="/game/development/global-game-jam-2016-thoughts-experiences-and-a-small-post-mortem/">
+<meta property="og:site_name" content="Kaze's Mind">
+
+
+
+
+
+<link rel="canonical" href="/game/development/global-game-jam-2016-thoughts-experiences-and-a-small-post-mortem/">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Kaze's Mind Feed">
+
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="post">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="/">Kaze's Mind</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				    
+				        
+				    
+				    <li><a href="/posts/" >Blog</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="/about/" >About</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="/photography/" >Photography</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="/portifolio/" >Portifolio</a></li>
+				
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    
+
+
+
+	<img src="/images/me.png" class="bio-photo" alt="Luiz Guilherme bio photo">
+
+<h3>Luiz Guilherme</h3>
+<p>Software Engineer, Researcher, GameDev, Photographer</p>
+<a href="mailto:luiz@kaze.io" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
+<a href="http://twitter.com/kazenotenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
+<a href="http://facebook.com/kazenotenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>
+
+<a href="http://linkedin.com/in/luizgosantos" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>
+<a href="http://instagram.com/kaze_" class="author-social" target="_blank"><i class="fa fa-fw fa-instagram"></i> Instagram</a>
+<a href="http://www.flickr.com/kazenotenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-flickr"></i> Flickr</a>
+<a href="http://kazen0tenshi.deviantart.com" class="author-social" target="_blank"><i class="fa fa-fw fa-deviantart"></i> Deviant Art</a>
+
+<a href="http://github.com/kazenotenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-github"></i> Github</a>
+
+
+
+
+
+<a href="http://steamcommunity.com/id/kazen0tenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-steam-square"></i> Steam</a>
+<a href="https://youtube.com/user/kazenotenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-youtube-square"></i> Youtube</a>
+
+
+  </div>
+  <article class="post">
+    <div class="headline-wrap">
+      
+        <h1><a href="/game/development/global-game-jam-2016-thoughts-experiences-and-a-small-post-mortem/" rel="bookmark" title="Global Game Jam 2016 - Thoughts, Experiences and a Small Post-Mortem">Global Game Jam 2016 - Thoughts, Experiences and a Small Post-Mortem</a></h1>
+      
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/_31I5EgdLmQ" frameborder="0" allowfullscreen=""></iframe>
+
+<p>It’s been a while since my last post, sorry about that =)</p>
+
+<p>Last weekend I attended to the Global Game Jam here in Dublin. For the ones who doesn’t know, it is a worldwide event where you meet new people, make friends, don’t sleep good, complain about crashing engines and make a game in 48h. It is a perfect time to learn, try new game design possibilities, do networking, and last but not least: have fun making games. In the end, you will surely made new friends, and had a great time.</p>
+
+<p>Today I’ll express some of the thoughts and experiences I had during the event that are worth sharing. The game I’ve worked is called Uku and can be seen at http://globalgamejam.org/2016/games/uku . I did all the programming, Ukulele songs (YEAH!) and Game Design with all the others.</p>
+
+<p>Id’ like also to thank the team I worked with. Eveliina Durchman, Josephine Wagner and Cian Burke. They are amazing teammates and very talented professionals as well.</p>
+
+<p>The project is also hosted at github: <a href="https://github.com/kazenotenshi/GlobalGameJam2016"> https://github.com/kazenotenshi/GlobalGameJam2016 </a></p>
+
+<h2 id="small-teams">Small Teams</h2>
+
+<p>Before the Jam, I had a mindset of be in a group of 3 people. In the end we finished with one more but It added another skillset to our team. I saw some teams of 7 people where it was very hard to manage that. Also smaller teams has a better communication which I’ll talk further.</p>
+
+<div align="center">
+<figure>
+     <a href="/images/theGGJTeam.jpg"><img src="/images/theGGJTeam.jpg" alt="The team. In the back, from Left to Right: Eveliina, Josephine and Cian. I'm in red with the ukulele." align="middle" /></a>
+ 
+     <figcaption>The team. In the back, from Left to Right: Eveliina, Josephine and Cian. I'm in red with the ukulele.</figcaption>
+</figure>
+</div>
+
+<h2 id="managing-scope">Managing Scope</h2>
+
+<p>The first thought I wanted to share is about project scope. Most of the times at the beginning of jam (Friday night) is reserved for the Brainstorming and Game Design. This year the theme was “Ritual”. In my opinion it gave the gamers a wide variety of ideas. We ourselves brainstormed from personal rituals (habits, OCD and other stuff) till witches and some dark ideas like reviving people.</p>
+
+<p>We decided to do a simple thing: Make a god ( goddess in our case ) happy. We dig up (as quick as we could) into the Hawaiian Mythology and discovered many cool stories and legends! Although we based our game in this legends we decided not to explicit refer it because for design purposes we have changed few things.</p>
+
+<p>After that, came the question “What would our mechanics be”? After another quick brainstorming we decided to create a 2D bottom-up platformer with a pressure element. Again, we put on the table each one’s ability and how everyone can contribute to the group.</p>
+
+<p>Other thing that is important to mention is preparations. Before the game jam we decided which tools to use and I researched a set of assets to use before hand trying to anticipate which kind of game we want to make. The engine used was unity which itself has tons of tools, free assets at asset store and is widely used by all of us.</p>
+
+<p>Some of the assets we used before hand were:</p>
+
+<ul>
+  <li>
+    <p>2D Dev Sprites (<a href="http://u3d.as/6nk">http://u3d.as/6nk</a>) : Perfect for mock up levels and use it as platforms</p>
+  </li>
+  <li>
+    <p>BitStrap (<a href="http://u3d.as/mF1">http://u3d.as/mF1</a>) : I just found this recently and it is a set of libraries and tools for math, animation, inspector and others that saves a lot of time. For instance you can get their singleton class and just made every singleton in the code inherit from it.</p>
+  </li>
+  <li>
+    <p>Game Jam Menu Template (<a href="http://u3d.as/hvQ">http://u3d.as/hvQ</a>) : Provided by unity, is is hand because it creates a quick menu for you and configure the audio mixer for music and FX</p>
+  </li>
+  <li>
+    <p>Standard Assets (<a href="hhttp://u3d.as/cg6">http://u3d.as/cg6</a>) : Again from Unity, provides a set of basic scripts, animations and other resources. Why make everything again if they provide 2D character movement for free? Off course you need to adapt it for your game, but is a straightforward approach in my opinion.</p>
+  </li>
+</ul>
+
+<div align="center">
+<figure>
+     <a href="/images/preparations.jpg"><img src="/images/preparations.jpg" alt="Preparing to the jam, food, food and more food =)" align="middle" /></a>
+ 
+     <figcaption>Preparing to the jam, food, food and more food =)</figcaption>
+</figure>
+</div>
+
+<h2 id="communication">Communication</h2>
+
+<p>Like in a workspace, the better way to maintain the communication between the team is having people next to each other and set up roles clearly and a process of work. In our team we had artists, animators/level designer, and me as programmer.</p>
+
+<p>We decide that everyone had freedom to do what they want and if the want some feedback or opinion they call all the teal for a quick meeting. Also, the art team set up an asset list for them to make the work goes as fast as possible and don’t lose track of each feature that has to be made. I decided to organize my work using trello for managing the tasks and github for source code management which saved me a lot of time and saved my project sometimes.</p>
+
+<p>All the assets were uploaded to a shared folder at google drive where every time that I need some asset to put in the project I just need to quick check this folder for it. In between I’d use placeholders to create the logic before the assets were done, and make few fixing when we place the final art.</p>
+
+<div align="center">
+<figure>
+     <a href="/images/RickRollPlaceholder.png"><img src="/images/RickRollPlaceholder.png" alt="Replacing some assets by Rick Astley made us remember to put some assets" align="middle" /></a>
+ 
+     <figcaption>Replacing some assets by Rick Astley made us remember to put some assets</figcaption>
+</figure>
+</div>
+
+<h2 id="respect-your-and-others-limits">Respect your and others limits</h2>
+
+<p>Although you make a lot of friends and have a lot of fun, there’s something we must track at all times during a jam, your mental health. Sometimes after 5h, 6h in a row working we start to make stupid mistakes and/or feeling bad. It is common to eat not so healthy ( I do not regret any pizza ) and drink a lot of energetic drinks to keep the pacing. I have a very strict opinion about it: Your health is way more important than the jam. The pressure of the 48h sometimes affect people’s mind and they forget it easily. It is important for the whole team to support that. If there’s a person feeling not so good, or drinking too much energetic drinks everyone should make clear that he/she has to take a break. Particularly about the programming side it made me avoid stupid mistakes. Every time that I realized that I was make rollbacks in the source code because of my mistakes and/or I was taking too much time to program a simple thing I’d lock the screen and walk around. Most of the tunes of the game were recorded during these breaks as a form of relaxing.</p>
+
+<p>Another limit that shall always be aware for everyone of the team are your skills limits. Although the game jam is an opportunity to learn new things, you’re not going to develop some skills just because of the 48h pressure. If you’re not a senior programmer you’re not gonna make a complex RPG system in 48h. If you’re not a hell of a good animator you’re not gonna make a pixar like cutscene for the game in time. Keep it simple, if it is necessary cut down the design for now and try to make the smallest proof of concept possible. We decided to make only one level because of that. Other teams decided to cut down some interactions or making a visual novel game because they didn’t have a programmer among them. If you’re not an artist make it with blocks and maintain this as an “art style” =). The most important thing is to use your skillset and have a playable product in the end.</p>
+
+<h2 id="polishing-time-aka-cutting-things">Polishing Time a.k.a Cutting Things</h2>
+
+<p>Polishing time can be known as the “stop new features” time. It is important to set a proper time for it regardless how the development is going. If you forget it, odds are that you will try to make in the last 3 or 4 hours and it won’t be polished enough. In our case we decided to stop any new feature after 24h. A meeting was made at the night of the second day to decide what we were going to cut. Hopefully we managed the scope accurately, making us cut just some few animations and features (like a more complex tutorial).</p>
+
+<h2 id="final-product">Final Product</h2>
+
+<p>Before release, play it and let other people play it. We discovered so many bugs just my getting the build and showing it to some people. Also, get the project and run in another computer before releasing. Know your requirements and put it explicitly in the description. Tell which version of the engine you used. If you just tested the game for one resolution say that it only works in that resolution, period. The important thing here is, make sure that after you upload your project you’d have the less people having troubles to execute it.</p>
+
+<p>I’m proud of my team of making it viable and have a playable version at the end with few bugs and art mistakes.</p>
+
+<div align="center">
+<figure>
+     <a href="/images/UkuHeader.png"><img src="/images/UkuHeader.png" alt="Our Game: Uku" align="middle" /></a>
+ 
+     <figcaption>Our Game: Uku</figcaption>
+</figure>
+</div>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>The Global Game Jam is for game developers an amazing opportunity to meet new people, learn new things, have fun, create more portfolio and eating pizza while you listen to ukuleles in our case. Mind your scope and your limits. Respect people’s limits as well, and know that are more things important at stake. Do something you are proud of, and it will be valuable for you personally and professionally. And always have fun.</p>
+
+<p>Thanks for reading =)</p>
+
+      <hr />
+      <footer role="contentinfo">
+        <div class="article-author-bottom">
+          
+
+
+
+	<img src="/images/me.png" class="bio-photo" alt="Luiz Guilherme bio photo">
+
+<h3>Luiz Guilherme</h3>
+<p>Software Engineer, Researcher, GameDev, Photographer</p>
+<a href="mailto:luiz@kaze.io" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
+<a href="http://twitter.com/kazenotenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
+<a href="http://facebook.com/kazenotenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>
+
+<a href="http://linkedin.com/in/luizgosantos" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>
+<a href="http://instagram.com/kaze_" class="author-social" target="_blank"><i class="fa fa-fw fa-instagram"></i> Instagram</a>
+<a href="http://www.flickr.com/kazenotenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-flickr"></i> Flickr</a>
+<a href="http://kazen0tenshi.deviantart.com" class="author-social" target="_blank"><i class="fa fa-fw fa-deviantart"></i> Deviant Art</a>
+
+<a href="http://github.com/kazenotenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-github"></i> Github</a>
+
+
+
+
+
+<a href="http://steamcommunity.com/id/kazen0tenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-steam-square"></i> Steam</a>
+<a href="https://youtube.com/user/kazenotenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-youtube-square"></i> Youtube</a>
+
+
+        </div>
+        <p class="byline"><strong>Global Game Jam 2016 - Thoughts, Experiences and a Small Post-Mortem</strong> was published on <time datetime="2016-02-02T16:00:01+00:00">February 02, 2016</time>.</p>
+      </footer>
+    </div><!-- /.article-wrap -->
+  
+    <section id="disqus_thread"></section><!-- /#disqus_thread -->
+  
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrap">
+  <div class="related-articles">
+  <h4>You might also enjoy <small class="pull-right">(<a href="/posts/">View all posts</a>)</small></h4>
+    <ul>
+    
+      <li><a href="/personal/the-big-change/" title="The Big Change">The Big Change</a></li>
+    
+      <li><a href="/gamedev/programming/unity3d/asteroids-game-camera-wrapping/" title="Asteroid's Game II: Camera Wrapping">Asteroid's Game II: Camera Wrapping</a></li>
+    
+      <li><a href="/gamedev/programming/unity3d/asteroids-game-player-input/" title="Asteroid's Game: Player Input">Asteroid's Game: Player Input</a></li>
+    
+    </ul>
+    <hr />
+  </div><!-- /.related-articles -->
+  <footer>
+    
+<div class="google-ads">
+  <!-- 320 x 50 ad -->
+  <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <ins class="adsbygoogle"
+       style="display:inline-block;width:320px;height:50px"
+       data-ad-client="ca-pub-5447213706109611"
+       data-ad-slot="2221748488"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div><!-- /.google-ads -->
+
+
+<span>&copy; 2016 Luiz Guilherme. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> adapted from <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-58347343-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+  
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'kazeio'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+	        
+
+</body>
+</html>
