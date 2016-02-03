@@ -66,7 +66,7 @@ Some of the assets we used before hand were:
 
 Like in a workspace, the better way to maintain the communication between the team is having people next to each other and set up roles clearly and a process of work. In our team we had artists, animators/level designer, and me as programmer.
 
-We decide that everyone had freedom to do what they want and if the want some feedback or opinion they call all the teal for a quick meeting. Also, the art team set up an asset list for them to make the work goes as fast as possible and don’t lose track of each feature that has to be made. I decided to organize my work using trello for managing the tasks and github for source code management which saved me a lot of time and saved my project sometimes.
+We decide that everyone had freedom to do what they want and if the want some feedback or opinion they call all the team for a quick meeting. Also, the art team set up an asset list for them to make the work goes as fast as possible and don’t lose track of each feature that has to be made. I decided to organize my work using trello for managing the tasks and github for source code management which saved me a lot of time and saved my project sometimes.
 
 All the assets were uploaded to a shared folder at google drive where every time that I need some asset to put in the project I just need to quick check this folder for it. In between I’d use placeholders to create the logic before the assets were done, and make few fixing when we place the final art.
 
