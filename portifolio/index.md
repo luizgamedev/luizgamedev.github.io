@@ -23,8 +23,6 @@ Some websites of my work and GameDev that I have participated:
 
 * Uku Game <a href="http://www.favelawars.com">http://bit.ly/uku-indiedb</a>
 
-<div style="padding: 20px;"><a href="http://www.indiedb.com/games/uku" title="View Uku on Indie DB" target="_blank"><img src="http://button.indiedb.com/popularity/medium/games/48384.png" alt="Uku" /></a></div>
-
 * Favela Wars Game <a href="http://www.favelawars.com">http://www.favelawars.com</a>
 * Github page: <a href="http://www.github.com/kazenotenshi">www.github.com/kazenotenshi</a>
 * GlobalGameJam Profile: <a href="http://globalgamejam.org/users/kazenotenshi">http://globalgamejam.org/users/kazenotenshi</a>
