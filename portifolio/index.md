@@ -15,7 +15,7 @@ If you're interested in talking to me about it, please feel free to send me an <
 
 ## Professional Experience:
 
-If you want to take a look at my linkedin just click <a href="http://br.linkedin.com/in/luizgosantos/en"> here</a>. My personal CV is also hosted <a href="http://bit.ly/CVLuizSantos"> here</a>.
+If you want to take a look at my LinkedIn just click <a href="http://br.linkedin.com/in/luizgosantos/en"> here</a>. My personal CV is also hosted <a href="http://bit.ly/CVLuizSantos16"> here</a>.
 
 ## Personal/GameDev Projects:
 
