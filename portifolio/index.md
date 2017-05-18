@@ -15,17 +15,18 @@ If you're interested in talking to me about it, please feel free to send me an <
 
 ## Professional Experience:
 
-If you want to take a look at my LinkedIn just click <a href="http://br.linkedin.com/in/luizgosantos/en"> here</a>. My personal CV is also hosted <a href="http://bit.ly/CVLuizSantos16"> here</a>.
+If you want to take a look at my LinkedIn just click <a href="http://bit.ly/LSantosLinkedInEN"> here</a>. My personal CV is also hosted <a href="http://bit.ly/LuizCV17"> here</a>.
 
 ## Personal/GameDev Projects:
 
 Some websites of my work and GameDev that I have participated:
 
-* Uku Game <a href="http://www.favelawars.com">http://bit.ly/uku-indiedb</a>
-
-* Favela Wars Game <a href="http://www.favelawars.com">http://www.favelawars.com</a>
-* Github page: <a href="http://www.github.com/kazenotenshi">www.github.com/kazenotenshi</a>
-* GlobalGameJam Profile: <a href="http://globalgamejam.org/users/kazenotenshi">http://globalgamejam.org/users/kazenotenshi</a>
+* Unannounced RTS : <a href="http://www.black-shamrock.com/">Company Website</a>
+* VideoWave: <a href="https://www.youtube.com/watch?v=FxtfNcmPhCQ">Video Link</a>
+* Uku Game: <a href="http://bit.ly/uku-indiedb">Indie DB Link</a>
+* Favela Wars Game: <a href="http://www.favelawars.com">Main website</a>
+* Github page: <a href="http://www.github.com/kazenotenshi">Github Page</a>
+* GlobalGameJam Profile: <a href="http://globalgamejam.org/users/kazenotenshi">GGJ Profile Link</a>
 
 
 ## Research and Interests
