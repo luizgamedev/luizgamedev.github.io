@@ -2,28 +2,254 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Kaze's Mind</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2015-07-29T20:03:26-03:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2017-11-30T14:16:05+00:00</updated>
+<id>http://localhost:4000/</id>
 <author>
   <name>Luiz Guilherme</name>
-  <uri>/</uri>
+  <uri>http://localhost:4000/</uri>
   <email>luiz@kaze.io</email>
 </author>
 
 
-  
+<entry>
+  <title type="html"><![CDATA[Leaving the Comfort Zone (for the Second Time)]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/personal/leaving-the-comfort-zone-for-the-second-time/" />
+  <id>http://localhost:4000/personal/leaving-the-comfort-zone-for-the-second-time</id>
+  <published>2017-11-30T12:24:21+00:00</published>
+  <updated>2017-11-30T12:24:21+00:00</updated>
+  <author>
+    <name>Luiz Guilherme</name>
+    <uri>http://localhost:4000</uri>
+    <email>luiz@kaze.io</email>
+  </author>
+  <content type="html">&lt;p&gt;It’s been a while since I last wrote in here. Today I’d like to share a thought that I recently had about some few stuff that has being going on around me lately. Two years ago I took a decision that many people considered “risky” (at some point insane). I decided to quit my job (relatively stable one and paying pretty good for Brazilian standards) and leave my country. In my head this decision made a lot of sense and a many people didn’t realize it. I did a quick exercise, I got a pen and paper and put on one side how I was at the time and and in the other how I wanted to be in that moment. The columns were completely different, so I decided to connect the dots and figure out how I will go to my objective from I was at the moment. These lines were the ideas that I started to created. From that I decided many things, including leaving Brazil. I’ll explain it in detail. My biggest objective was always to work in the video-game industry. It is a fascinating area, full of creative people doing products that has to be on the edge of the technology every generation. It was something I dreamed. But I had a very big problem: The Brazilian game industry is not well developed and I had very little experience in the field. I’m not gonna go into details, but at that time it was pretty incipient and paid poorly. Also, because of many personal problems I had to be away from game development for a time. I was pretty sure my future won’t be in Brazil. When I tried to apply abroad I was rejected due my lack of experience, so many companies couldn’t afford to justify hiring me ( also Visa, relocation and other factors were taking into consideration ).&lt;/p&gt;
+
+&lt;p&gt;It was in this scenario that I decided that moving from Brazil on my own will make my chances better. If I could sustain myself, build a portfolio and talk face-to-face with the companies this will make the difference. So with a cold-minded approach I made plannings, research and quotations to decided where to go. I came to Ireland due to many things likes: Easiness to get visas, Courses, Friends already living in here, English spoken country, and the list of game companies in the country (I has kinda fooled in this part, check below). As said, It wasn’t an impulse decision, after deciding the place I did many hypothesis, spreadsheets to calculate how much I’d spend, Plans (always have a plan A, B, C, etc) among others. In the beginning of September 2015 I was approved to enroll a game development course in Ireland which gave me the right to claim a student visa, stay 1 year in the country and work 20h per week. I asked to leave my job at the same week and started to prepare myself to move.&lt;/p&gt;
+
+&lt;p&gt;Change to another city is not easy, change to another country is in a whole different level of difficulty. You can never know the country if you never even visited it. When I came to Ireland I realized that many of the things that were in my plan was a bit odd. For instance, I discovered that all big companies in my list of game companies were not developing in Ireland, only doing QA and Localisation, which led me to a bad situation since I was hoping to get a job soon. Another thing was the lack of support that I got from the college I was doing my course. I almost got deported because they were giving me wrong docs. After the initial problems, I didn’t give up and continue my plan. In about 4 months I got a job as a Video Game Programmer in a company that was just starting to operate in town.&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;figure&gt;
+     &lt;a href=&quot;/images/comfortzone00.jpg&quot;&gt;&lt;img src=&quot;/images/comfortzone00.jpg&quot; alt=&quot;The box of Age of Empires&quot; align=&quot;middle&quot; /&gt;&lt;/a&gt;
+ 
+     &lt;figcaption&gt;The box of Age of Empires&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I couldn’t be happier. I left Brazil and quickly got the job that I wanted. In less than 1 year I got stable and paid back my investment. It’s been already 2 years that I live in Ireland. I have friends, play in a pub every tuesday, got my graduation at Kendo, to sum up I have an amazing quality of life in here. Many people who said I was crazy a while ago actually came to me asking how I did it. I didn’t find this sudden change odd or so since many people doesn’t see the opportunities in front of them. I always tried to help as much as I could (although in certain cases I wouldn’t recommend doing it).&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;figure&gt;
+     &lt;a href=&quot;/images/comfortzone01.jpg&quot;&gt;&lt;img src=&quot;/images/comfortzone01.jpg&quot; alt=&quot;The box of Age of Empires&quot; align=&quot;middle&quot; /&gt;&lt;/a&gt;
+ 
+     &lt;figcaption&gt;The box of Age of Empires&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;After reading all this you should be asking yourself, why leave your comfort zone again? I got everything I wanted, I could be calm in the city and in the job that took me. Well, no. I recently decided to move again. I also decided that I should move to another country. One thing that I believe is that we should always move forward. To accommodate is not something I believe. Having this good ambition makes you a better professional. Unfortunately, I feel that in Brazil people value too much the mediocrity, the “It is good the way it is”, the “stability” instead of the personal progress. This is also another discussion.&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;figure&gt;
+     &lt;a href=&quot;/images/comfortzone02.jpg&quot;&gt;&lt;img src=&quot;/images/comfortzone02.jpg&quot; alt=&quot;The box of Age of Empires&quot; align=&quot;middle&quot; /&gt;&lt;/a&gt;
+ 
+     &lt;figcaption&gt;The box of Age of Empires&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;At the beginning of the year, as part of my annual objective plan, I’ve stated some objectives for myself. One of the things I wanted is a senior/lead promotion. I saw that even though I didn’t had the gaming experience I was going really well at the company even solving hard problems with my past experience helping. I always liked the managing part of games as well, always volunteering to do some administrative work when needed. Another big objective was a raise in my salary. Although I got the job that I wanted I was earning less than usual for many different reasons. Again, I just put two columns on a paper and started to solve my problem.&lt;/p&gt;
+
+&lt;p&gt;At first I tried to solve it internally at my company. Unfortunately, because of reasons that are not important at the moment this wasn’t possible. Some few stuff that happened in the mean time at the company also made me think about the company itself. Afterwards, I started to apply to many companies in other countries ( based in a criteria that I created ) and finally got a position where I will deal with more technical management and with a better salary. In 2 weeks I will be moving to another job, to another country, I will have more initial surprises, more friend and more experiences to share.&lt;/p&gt;
+
+&lt;p&gt;From this little big text I would like to get some lessons that has been with me for a while:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Don’t let your comfort zone limit yourself. Provoke yourself always! Think if at the moment you have what you want, or if you will have opportunities to grow&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Plan! When you are about to do a big decision have a plan A, B, C, etc. But, don’t be afraid to execute those plans.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Learn how to listen to external criticism, filter the bad ones and learn with the good ones&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you’re young, this is the time to do something risky&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Maybe your first path won’t be correct, or definitive. You will have many steps to fulfill before going to that main objective of yours&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Every time you achieve something, review your objectives, create new ones and the most important: celebrate!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To finish, the search for your happiness will require sometimes courage and bold decisions. Do it while you can. Learn with your mistakes and enjoy life.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading it. I hope this text will help you somehow.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/personal/leaving-the-comfort-zone-for-the-second-time/&quot;&gt;Leaving the Comfort Zone (for the Second Time)&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on November 30, 2017.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Global Game Jam 2016 - Thoughts, Experiences and a Small Post-Mortem]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/game/development/global-game-jam-2016-thoughts-experiences-and-a-small-post-mortem/" />
+  <id>http://localhost:4000/game/development/global-game-jam-2016-thoughts-experiences-and-a-small-post-mortem</id>
+  <published>2016-02-02T16:00:01+00:00</published>
+  <updated>2016-02-02T16:00:01+00:00</updated>
+  <author>
+    <name>Luiz Guilherme</name>
+    <uri>http://localhost:4000</uri>
+    <email>luiz@kaze.io</email>
+  </author>
+  <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_31I5EgdLmQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;It’s been a while since my last post, sorry about that =)&lt;/p&gt;
+
+&lt;p&gt;Last weekend I attended to the Global Game Jam here in Dublin. For the ones who doesn’t know, it is a worldwide event where you meet new people, make friends, don’t sleep good, complain about crashing engines and make a game in 48h. It is a perfect time to learn, try new game design possibilities, do networking, and last but not least: have fun making games. In the end, you will surely made new friends, and had a great time.&lt;/p&gt;
+
+&lt;p&gt;Today I’ll express some of the thoughts and experiences I had during the event that are worth sharing. The game I’ve worked is called Uku and can be seen at http://globalgamejam.org/2016/games/uku . I did all the programming, Ukulele songs (YEAH!) and Game Design with all the others.&lt;/p&gt;
+
+&lt;p&gt;Id’ like also to thank the team I worked with. Eveliina Durchman, Josephine Wagner and Cian Burke. They are amazing teammates and very talented professionals as well.&lt;/p&gt;
+
+&lt;p&gt;The project is also hosted at github: &lt;a href=&quot;https://github.com/kazenotenshi/GlobalGameJam2016&quot;&gt; https://github.com/kazenotenshi/GlobalGameJam2016 &lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;small-teams&quot;&gt;Small Teams&lt;/h2&gt;
+
+&lt;p&gt;Before the Jam, I had a mindset of be in a group of 3 people. In the end we finished with one more but It added another skillset to our team. I saw some teams of 7 people where it was very hard to manage that. Also smaller teams has a better communication which I’ll talk further.&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;figure&gt;
+     &lt;a href=&quot;/images/theGGJTeam.jpg&quot;&gt;&lt;img src=&quot;/images/theGGJTeam.jpg&quot; alt=&quot;The team. In the back, from Left to Right: Eveliina, Josephine and Cian. I'm in red with the ukulele.&quot; align=&quot;middle&quot; /&gt;&lt;/a&gt;
+ 
+     &lt;figcaption&gt;The team. In the back, from Left to Right: Eveliina, Josephine and Cian. I'm in red with the ukulele.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;managing-scope&quot;&gt;Managing Scope&lt;/h2&gt;
+
+&lt;p&gt;The first thought I wanted to share is about project scope. Most of the times at the beginning of jam (Friday night) is reserved for the Brainstorming and Game Design. This year the theme was “Ritual”. In my opinion it gave the gamers a wide variety of ideas. We ourselves brainstormed from personal rituals (habits, OCD and other stuff) till witches and some dark ideas like reviving people.&lt;/p&gt;
+
+&lt;p&gt;We decided to do a simple thing: Make a god ( goddess in our case ) happy. We dig up (as quick as we could) into the Hawaiian Mythology and discovered many cool stories and legends! Although we based our game in this legends we decided not to explicit refer it because for design purposes we have changed few things.&lt;/p&gt;
+
+&lt;p&gt;After that, came the question “What would our mechanics be”? After another quick brainstorming we decided to create a 2D bottom-up platformer with a pressure element. Again, we put on the table each one’s ability and how everyone can contribute to the group.&lt;/p&gt;
+
+&lt;p&gt;Other thing that is important to mention is preparations. Before the game jam we decided which tools to use and I researched a set of assets to use before hand trying to anticipate which kind of game we want to make. The engine used was unity which itself has tons of tools, free assets at asset store and is widely used by all of us.&lt;/p&gt;
+
+&lt;p&gt;Some of the assets we used before hand were:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;2D Dev Sprites (&lt;a href=&quot;http://u3d.as/6nk&quot;&gt;http://u3d.as/6nk&lt;/a&gt;) : Perfect for mock up levels and use it as platforms&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;BitStrap (&lt;a href=&quot;http://u3d.as/mF1&quot;&gt;http://u3d.as/mF1&lt;/a&gt;) : I just found this recently and it is a set of libraries and tools for math, animation, inspector and others that saves a lot of time. For instance you can get their singleton class and just made every singleton in the code inherit from it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Game Jam Menu Template (&lt;a href=&quot;http://u3d.as/hvQ&quot;&gt;http://u3d.as/hvQ&lt;/a&gt;) : Provided by unity, is is hand because it creates a quick menu for you and configure the audio mixer for music and FX&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Standard Assets (&lt;a href=&quot;hhttp://u3d.as/cg6&quot;&gt;http://u3d.as/cg6&lt;/a&gt;) : Again from Unity, provides a set of basic scripts, animations and other resources. Why make everything again if they provide 2D character movement for free? Off course you need to adapt it for your game, but is a straightforward approach in my opinion.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;figure&gt;
+     &lt;a href=&quot;/images/preparations.jpg&quot;&gt;&lt;img src=&quot;/images/preparations.jpg&quot; alt=&quot;Preparing to the jam, food, food and more food =)&quot; align=&quot;middle&quot; /&gt;&lt;/a&gt;
+ 
+     &lt;figcaption&gt;Preparing to the jam, food, food and more food =)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;communication&quot;&gt;Communication&lt;/h2&gt;
+
+&lt;p&gt;Like in a workspace, the better way to maintain the communication between the team is having people next to each other and set up roles clearly and a process of work. In our team we had artists, animators/level designer, and me as programmer.&lt;/p&gt;
+
+&lt;p&gt;We decide that everyone had freedom to do what they want and if the want some feedback or opinion they call all the team for a quick meeting. Also, the art team set up an asset list for them to make the work goes as fast as possible and don’t lose track of each feature that has to be made. I decided to organize my work using trello for managing the tasks and github for source code management which saved me a lot of time and saved my project sometimes.&lt;/p&gt;
+
+&lt;p&gt;All the assets were uploaded to a shared folder at google drive where every time that I need some asset to put in the project I just need to quick check this folder for it. In between I’d use placeholders to create the logic before the assets were done, and make few fixing when we place the final art.&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;figure&gt;
+     &lt;a href=&quot;/images/RickRollPlaceholder.png&quot;&gt;&lt;img src=&quot;/images/RickRollPlaceholder.png&quot; alt=&quot;Replacing some assets by Rick Astley made us remember to put some assets&quot; align=&quot;middle&quot; /&gt;&lt;/a&gt;
+ 
+     &lt;figcaption&gt;Replacing some assets by Rick Astley made us remember to put some assets&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;respect-your-and-others-limits&quot;&gt;Respect your and others limits&lt;/h2&gt;
+
+&lt;p&gt;Although you make a lot of friends and have a lot of fun, there’s something we must track at all times during a jam, your mental health. Sometimes after 5h, 6h in a row working we start to make stupid mistakes and/or feeling bad. It is common to eat not so healthy ( I do not regret any pizza ) and drink a lot of energetic drinks to keep the pacing. I have a very strict opinion about it: Your health is way more important than the jam. The pressure of the 48h sometimes affect people’s mind and they forget it easily. It is important for the whole team to support that. If there’s a person feeling not so good, or drinking too much energetic drinks everyone should make clear that he/she has to take a break. Particularly about the programming side it made me avoid stupid mistakes. Every time that I realized that I was make rollbacks in the source code because of my mistakes and/or I was taking too much time to program a simple thing I’d lock the screen and walk around. Most of the tunes of the game were recorded during these breaks as a form of relaxing.&lt;/p&gt;
+
+&lt;p&gt;Another limit that shall always be aware for everyone of the team are your skills limits. Although the game jam is an opportunity to learn new things, you’re not going to develop some skills just because of the 48h pressure. If you’re not a senior programmer you’re not gonna make a complex RPG system in 48h. If you’re not a hell of a good animator you’re not gonna make a pixar like cutscene for the game in time. Keep it simple, if it is necessary cut down the design for now and try to make the smallest proof of concept possible. We decided to make only one level because of that. Other teams decided to cut down some interactions or making a visual novel game because they didn’t have a programmer among them. If you’re not an artist make it with blocks and maintain this as an “art style” =). The most important thing is to use your skillset and have a playable product in the end.&lt;/p&gt;
+
+&lt;h2 id=&quot;polishing-time-aka-cutting-things&quot;&gt;Polishing Time a.k.a Cutting Things&lt;/h2&gt;
+
+&lt;p&gt;Polishing time can be known as the “stop new features” time. It is important to set a proper time for it regardless how the development is going. If you forget it, odds are that you will try to make in the last 3 or 4 hours and it won’t be polished enough. In our case we decided to stop any new feature after 24h. A meeting was made at the night of the second day to decide what we were going to cut. Hopefully we managed the scope accurately, making us cut just some few animations and features (like a more complex tutorial).&lt;/p&gt;
+
+&lt;h2 id=&quot;final-product&quot;&gt;Final Product&lt;/h2&gt;
+
+&lt;p&gt;Before release, play it and let other people play it. We discovered so many bugs just my getting the build and showing it to some people. Also, get the project and run in another computer before releasing. Know your requirements and put it explicitly in the description. Tell which version of the engine you used. If you just tested the game for one resolution say that it only works in that resolution, period. The important thing here is, make sure that after you upload your project you’d have the less people having troubles to execute it.&lt;/p&gt;
+
+&lt;p&gt;I’m proud of my team of making it viable and have a playable version at the end with few bugs and art mistakes.&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;figure&gt;
+     &lt;a href=&quot;/images/UkuHeader.png&quot;&gt;&lt;img src=&quot;/images/UkuHeader.png&quot; alt=&quot;Our Game: Uku&quot; align=&quot;middle&quot; /&gt;&lt;/a&gt;
+ 
+     &lt;figcaption&gt;Our Game: Uku&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;The Global Game Jam is for game developers an amazing opportunity to meet new people, learn new things, have fun, create more portfolio and eating pizza while you listen to ukuleles in our case. Mind your scope and your limits. Respect people’s limits as well, and know that are more things important at stake. Do something you are proud of, and it will be valuable for you personally and professionally. And always have fun.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading =)&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/game/development/global-game-jam-2016-thoughts-experiences-and-a-small-post-mortem/&quot;&gt;Global Game Jam 2016 - Thoughts, Experiences and a Small Post-Mortem&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on February 02, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[The Big Change]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/personal/the-big-change/" />
+  <id>http://localhost:4000/personal/the-big-change</id>
+  <published>2015-10-11T14:19:05+01:00</published>
+  <updated>2015-10-11T14:19:05+01:00</updated>
+  <author>
+    <name>Luiz Guilherme</name>
+    <uri>http://localhost:4000</uri>
+    <email>luiz@kaze.io</email>
+  </author>
+  <content type="html">&lt;p&gt;So, it’s been 3 months since my last post in here. Right now I don’t have too much time to update this, but I’ll be back shortly. But, an explanation is needed.&lt;/p&gt;
+
+&lt;p&gt;Well, my life just had a big change, for good I hope. I always had a dream of working with digital games. I’ve been studying for a while. Did my bachelor’s, my master’s all in computer graphics field, which I think it is one of the ways to get in the industry. But then I forgot something, the country that I was doesn’t have a game industry well established. No matter what I studied I could not pay my bills working in games there.&lt;/p&gt;
+
+&lt;p&gt;That’s sad, but it is true. For a 200 million people country, games and technology weren’t the government priorities. There still some companies that stands out of the difficulties, make good games and stay alive alike most of them, but I could not rely on that anymore. For instance, I worked in 2 game companies during my time in Brazil. Both don’t exist anymore and in that time I got half of the salary of my last job as researcher in Brazil.&lt;/p&gt;
+
+&lt;p&gt;So I decided to make something really really groundbreaking, I quit my job, and came to Ireland. Why? because I could not look at this dream on my shelf anymore without doing nothing to accomplish it. Also, I could not risk trying to do this at my own country since it was riskier than doing somewhere else. That is somewhat nonsense for people outside Brazil to think, but for the ones that lived there, and know how greedy the government is, this move makes a lot of sense.&lt;/p&gt;
+
+&lt;p&gt;My idea is to make a Game Development course in Dublin ( where I am now ), boost my portfolio ( which was on hold for a while ), learn, work a lot, and have nice experiences. That’s something big for me. I’ve never lived in another country. And seems like a big risk for me as well. Well, sometimes changing is necessary.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading, and If you have a similar experience that you’d like to share, just post in the comments =)&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/personal/the-big-change/&quot;&gt;The Big Change&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on October 11, 2015.&lt;/p&gt;</content>
+</entry>
+
 
 <entry>
   <title type="html"><![CDATA[Asteroid's Game: Player Input]]></title>
-  <link rel="alternate" type="text/html" href="/gamedev/programming/unity3d/asteroids-game-player-input/" />
-  <id>/gamedev/programming/unity3d/asteroids-game-player-input</id>
-  <published>2015-07-29T19:45:40-03:00</published>
-  <updated>2015-07-29T19:45:40-03:00</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/gamedev/programming/unity3d/asteroids-game-player-input/" />
+  <id>http://localhost:4000/gamedev/programming/unity3d/asteroids-game-player-input</id>
+  <published>2015-07-29T23:45:40+01:00</published>
+  <updated>2015-07-29T23:45:40+01:00</updated>
   <author>
     <name>Luiz Guilherme</name>
-    <uri></uri>
+    <uri>http://localhost:4000</uri>
     <email>luiz@kaze.io</email>
   </author>
   <content type="html">&lt;p&gt;Hi! After the Unity quick tips, I have decided to invest a little more time sharing some insights and Unity tips in this blog, rather than only share my updates in the P.hD Thesis and other random stuff.&lt;/p&gt;
@@ -42,7 +268,7 @@
 
 &lt;div align=&quot;center&quot;&gt;
 &lt;figure&gt;
-     &lt;a href=&quot;/images/l0_sprite_1.png&quot;&gt;&lt;img src=&quot;/images/l0_sprite_1.png&quot; alt=&quot;I&#39;m not an artist =)&quot; align=&quot;middle&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;
+     &lt;a href=&quot;/images/l0_sprite_1.png&quot;&gt;&lt;img src=&quot;/images/l0_sprite_1.png&quot; alt=&quot;I'm not an artist =)&quot; align=&quot;middle&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;
  
      &lt;figcaption&gt;My Spaceship&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -60,23 +286,23 @@
 &lt;figure&gt;
      &lt;a href=&quot;/images/axesSpaceship.png&quot;&gt;&lt;img src=&quot;/images/axesSpaceship.png&quot; alt=&quot;Ship inside Unity&quot; align=&quot;middle&quot; width=&quot;200&quot; /&gt;&lt;/a&gt;
  
-     &lt;figcaption&gt;Spaceship inside the Unity&#39;s view&lt;/figcaption&gt;
+     &lt;figcaption&gt;Spaceship inside the Unity's view&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Now let’s start the script. In the project tab, do a right click and and choose “Create -&amp;gt; C#” script. Name it “SpaceshipInput”, and then click and drag it to the Game Object you just created. Just a quick advise. As the project gets bigger it is nice if you organize the project area into folders. It will help you later to find the assets quickly. Double click in the script in the project area to open the default script editor. If you did not &lt;a href=&quot;http://kaze.io/game/development/unity-quick-tips-using-microsoft-visual-studio-code-instead-of-monodevelop/&quot;&gt;change it like me&lt;/a&gt;, it should be MonoDevelop. &lt;/p&gt;
+&lt;p&gt;Now let’s start the script. In the project tab, do a right click and and choose “Create -&amp;gt; C#” script. Name it “SpaceshipInput”, and then click and drag it to the Game Object you just created. Just a quick advise. As the project gets bigger it is nice if you organize the project area into folders. It will help you later to find the assets quickly. Double click in the script in the project area to open the default script editor. If you did not &lt;a href=&quot;http://kaze.io/game/development/unity-quick-tips-using-microsoft-visual-studio-code-instead-of-monodevelop/&quot;&gt;change it like me&lt;/a&gt;, it should be MonoDevelop.&lt;/p&gt;
 
 &lt;p&gt;Unity always creates a standard template where the script inherits from MonoBehaviour and has two functions: Start and Update. Start is a function that is called once, on the frame when a script is enabled, before the first update. Update on the other hand, is called every frame. There are others derived methods from MonoBehaviour that is worth knowing. Refer to the &lt;a href=&quot;http://docs.unity3d.com/ScriptReference/MonoBehaviour.html&quot;&gt;Official Documentation&lt;/a&gt; and look at other functions.&lt;/p&gt;
 
 &lt;p&gt;Let’s Start creating two public variables called speed and rotationSpeed inside the class, just before the Start function.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;k&quot;&gt;using&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;UnityEngine&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;k&quot;&gt;using&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;UnityEngine&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;using&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;System.Collections&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
 &lt;span class=&quot;k&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;SpaceshipInput&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;MonoBehaviour&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
 
 	&lt;span class=&quot;c1&quot;&gt;//Speeds&lt;/span&gt;
-	&lt;span class=&quot;k&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Vector2&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;speed&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Vector2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10.0F&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Vector2&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;speed&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Vector2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10.0F&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 	&lt;span class=&quot;k&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;float&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rotationSpeed&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;200.0f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
 	&lt;span class=&quot;c1&quot;&gt;// Use this for initialization&lt;/span&gt;
@@ -87,7 +313,7 @@
     &lt;span class=&quot;k&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Update&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
 	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Notice that the default values were already set. If you go to the inspector at Unity’s editor, these two variables will appear there. Go there and set some default values to the Rigidbody2D Component as well. Put a very small Gravity Scale, keep the angular drag and the mass at 1. The result would be something like this:&lt;/p&gt;
 
@@ -95,48 +321,48 @@
 &lt;figure&gt;
      &lt;a href=&quot;/images/ViewWithScript.png&quot;&gt;&lt;img src=&quot;/images/ViewWithScript.png&quot; alt=&quot;Script is successfully attached&quot; align=&quot;middle&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;
  
-     &lt;figcaption&gt;Spaceship inside the Unity&#39;s view&lt;/figcaption&gt;
+     &lt;figcaption&gt;Spaceship inside the Unity's view&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Ok, our variables are set. The idea now is to get the input from the player, and move the Space Ship around. I’d start with the rotation. Input.GetAxis function will give us a value in [-1,1] range from a keyboard or a joystick input. We should say which Axis are we in ( Horizontal, or vertical ). In this case would be the Vertical one. The code should be called every frame to check if the user is still holding the left/right key or toggling the joystick in these directions. After that, we should get a relative time from the last frame and apply the rotation in the Z axis. The code is:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Update is called once per frame&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-csharp&quot; data-lang=&quot;csharp&quot;&gt;	&lt;span class=&quot;c1&quot;&gt;// Update is called once per frame&lt;/span&gt;
 	&lt;span class=&quot;k&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Update&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
 		&lt;span class=&quot;c1&quot;&gt;//Deal with rotation first&lt;/span&gt;
-		&lt;span class=&quot;kt&quot;&gt;float&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rotation&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GetAxis&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Horizontal&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rotationSpeed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+		&lt;span class=&quot;kt&quot;&gt;float&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rotation&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;GetAxis&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Horizontal&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rotationSpeed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 		&lt;span class=&quot;n&quot;&gt;rotation&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Time&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;deltaTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-		&lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Rotate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rotation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+		&lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Rotate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rotation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;What it does? Every frame, we will get a value between -1 and 1 from the horizontal axis, multiply that to our rotationSpeed and to the deltaTime which is the time in seconds it took to complete the last frame. After that the code applies the rotation to the Game Object’s transform class.&lt;/p&gt;
 
 &lt;p&gt;The Translation uses the same concept, but we will not do an affine transformation here, we will use physics instead. Why? Because we’re in space, and the movement should reproduce its environment. Also, our ship is an outdated model that does not have reverse, sorry for that =). Continuing our code:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Update is called once per frame&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-csharp&quot; data-lang=&quot;csharp&quot;&gt;	&lt;span class=&quot;c1&quot;&gt;// Update is called once per frame&lt;/span&gt;
 	&lt;span class=&quot;k&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Update&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
 		&lt;span class=&quot;c1&quot;&gt;//Deal with rotation first&lt;/span&gt;
-		&lt;span class=&quot;kt&quot;&gt;float&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rotation&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GetAxis&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Horizontal&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rotationSpeed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+		&lt;span class=&quot;kt&quot;&gt;float&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rotation&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;GetAxis&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Horizontal&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rotationSpeed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 		&lt;span class=&quot;n&quot;&gt;rotation&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Time&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;deltaTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-		&lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Rotate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rotation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+		&lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Rotate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rotation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 
 		&lt;span class=&quot;c1&quot;&gt;//Translation is an special case, only occurs if the player wants to go up!&lt;/span&gt;
-		&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GetAxis&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Vertical&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
-			&lt;span class=&quot;n&quot;&gt;Vector2&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;translation&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GetAxis&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Vertical&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;speed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;GetAxis&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Vertical&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+			&lt;span class=&quot;n&quot;&gt;Vector2&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;translation&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;GetAxis&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Vertical&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;speed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 			&lt;span class=&quot;n&quot;&gt;translation&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Time&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;deltaTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-			&lt;span class=&quot;n&quot;&gt;GetComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Rigidbody2D&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;().&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;AddRelativeForce&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;translation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ForceMode2D&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Impulse&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+			&lt;span class=&quot;n&quot;&gt;GetComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Rigidbody2D&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;().&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;AddRelativeForce&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;translation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ForceMode2D&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Impulse&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 		&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Translation is now a 2D Vector that will get the value from the player input and multiply with our pre specified speed and the deltaTime. Differently from the rotation, we will now apply a relative force to the object. The force type is an impulse case it reflects the engines impulsion in a real spaceship. It is relative because we want it to go up in the ship’s perspective, not the world’s perspective. So if we do any kind of rotation, the force will be applied relatively to the ship’s coordinate system at the time. The final code is:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;k&quot;&gt;using&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;UnityEngine&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;k&quot;&gt;using&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;UnityEngine&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;using&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;System.Collections&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
 &lt;span class=&quot;k&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;SpaceshipInput&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;MonoBehaviour&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
 
 	&lt;span class=&quot;c1&quot;&gt;//Speeds&lt;/span&gt;
-	&lt;span class=&quot;k&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Vector2&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;speed&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Vector2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10.0F&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Vector2&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;speed&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Vector2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10.0F&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 	&lt;span class=&quot;k&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;float&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rotationSpeed&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;200.0f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
 	&lt;span class=&quot;c1&quot;&gt;// Use this for initialization&lt;/span&gt;
@@ -146,37 +372,35 @@
 	&lt;span class=&quot;c1&quot;&gt;// Update is called once per frame&lt;/span&gt;
 	&lt;span class=&quot;k&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Update&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
 		&lt;span class=&quot;c1&quot;&gt;//Deal with rotation first&lt;/span&gt;
-		&lt;span class=&quot;kt&quot;&gt;float&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rotation&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GetAxis&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Horizontal&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rotationSpeed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+		&lt;span class=&quot;kt&quot;&gt;float&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rotation&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;GetAxis&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Horizontal&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rotationSpeed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 		&lt;span class=&quot;n&quot;&gt;rotation&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Time&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;deltaTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-		&lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Rotate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rotation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+		&lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Rotate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rotation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
         
 		&lt;span class=&quot;c1&quot;&gt;//Translation is an special case, only occurs if the player wants to go up!&lt;/span&gt;
-		&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GetAxis&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Vertical&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
-			&lt;span class=&quot;n&quot;&gt;Vector2&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;translation&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GetAxis&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Vertical&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;speed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;GetAxis&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Vertical&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+			&lt;span class=&quot;n&quot;&gt;Vector2&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;translation&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;GetAxis&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Vertical&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;speed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 			&lt;span class=&quot;n&quot;&gt;translation&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Time&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;deltaTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-			&lt;span class=&quot;n&quot;&gt;GetComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Rigidbody2D&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;().&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;AddRelativeForce&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;translation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ForceMode2D&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Impulse&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+			&lt;span class=&quot;n&quot;&gt;GetComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Rigidbody2D&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;().&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;AddRelativeForce&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;translation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ForceMode2D&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Impulse&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 		&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;That’s enough for now. Next post I’ll solve one problem that this code creates. If you have any comment I’ll be glad to help. See ya!&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/gamedev/programming/unity3d/asteroids-game-player-input/&quot;&gt;Asteroid's Game: Player Input&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;&quot;&gt;Kaze's Mind&lt;/a&gt; on July 29, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/gamedev/programming/unity3d/asteroids-game-player-input/&quot;&gt;Asteroid's Game: Player Input&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on July 29, 2015.&lt;/p&gt;</content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Unity Quick Tips: Using Microsoft Visual Studio Code Instead of MonoDevelop]]></title>
-  <link rel="alternate" type="text/html" href="/game/development/unity-quick-tips-using-microsoft-visual-studio-code-instead-of-monodevelop/" />
-  <id>/game/development/unity-quick-tips-using-microsoft-visual-studio-code-instead-of-monodevelop</id>
-  <published>2015-07-04T21:32:42-03:00</published>
-  <updated>2015-07-04T21:32:42-03:00</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/game/development/unity-quick-tips-using-microsoft-visual-studio-code-instead-of-monodevelop/" />
+  <id>http://localhost:4000/game/development/unity-quick-tips-using-microsoft-visual-studio-code-instead-of-monodevelop</id>
+  <published>2015-07-05T01:32:42+01:00</published>
+  <updated>2015-07-05T01:32:42+01:00</updated>
   <author>
     <name>Luiz Guilherme</name>
-    <uri></uri>
+    <uri>http://localhost:4000</uri>
     <email>luiz@kaze.io</email>
   </author>
   <content type="html">&lt;p&gt;Hi everyone, last week I decided to start something new here. I’ll be posting some small tips of using Unity3D once in a while. Why? Because I love Game Development. Even though I’m not working with it right now, I always create some stuff in my spare time. Since this is my first talk, I’d like to make a quick introduction on Unity, and then start the main objective of this article, that will be changing Unity’s default IDE.&lt;/p&gt;
@@ -205,7 +429,7 @@
 
 &lt;p&gt;Three easy steps to start using Visual Studio Code on Unity:&lt;/p&gt;
 
-&lt;h3 id=&quot;sync-the-project&quot;&gt;1. Sync the Project.&lt;/h3&gt;
+&lt;p&gt;###1. Sync the Project.&lt;/p&gt;
 
 &lt;p&gt;Go to Assets -&amp;gt; Sync MonoDevelop project&lt;/p&gt;
 
@@ -215,26 +439,26 @@
 &lt;/figure&gt;
 &lt;/div&gt;
 
-&lt;h3 id=&quot;open-visual-studio-and-select-your-projects-folder&quot;&gt;2. Open Visual Studio and select your project’s folder&lt;/h3&gt;
+&lt;p&gt;###2. Open Visual Studio and select your project’s folder&lt;/p&gt;
 
 &lt;p&gt;Select the first button on the left, and then press “Open Folder”. Select your Unity’s project root folder and open it.&lt;/p&gt;
 
 &lt;div align=&quot;center&quot;&gt;
 &lt;figure&gt;
-     &lt;a href=&quot;/images/unityVSCode002.png&quot;&gt;&lt;img src=&quot;/images/unityVSCode002.png&quot; alt=&quot;Open Visual Studio and select your project&#39;s folder&quot; align=&quot;middle&quot; /&gt;&lt;/a&gt;
+     &lt;a href=&quot;/images/unityVSCode002.png&quot;&gt;&lt;img src=&quot;/images/unityVSCode002.png&quot; alt=&quot;Open Visual Studio and select your project's folder&quot; align=&quot;middle&quot; /&gt;&lt;/a&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
 
-&lt;h3 id=&quot;pick-a-project-inside-unitys-folder&quot;&gt;3. Pick a project inside Unity’s folder&lt;/h3&gt;
-&lt;p&gt;On the bottom left there’s an option called “pick a project”, just beside a flame icon. Select it, and then select the project with the “csharp” ending.&lt;/p&gt;
+&lt;p&gt;###3. Pick a project inside Unity’s folder
+On the bottom left there’s an option called “pick a project”, just beside a flame icon. Select it, and then select the project with the “csharp” ending.&lt;/p&gt;
 
 &lt;div align=&quot;center&quot;&gt;
 &lt;figure&gt;
-     &lt;a href=&quot;/images/unityVSCode003.png&quot;&gt;&lt;img src=&quot;/images/unityVSCode003.png&quot; alt=&quot;Pick a project inside Unity&#39;s folder&quot; align=&quot;middle&quot; /&gt;&lt;/a&gt;
+     &lt;a href=&quot;/images/unityVSCode003.png&quot;&gt;&lt;img src=&quot;/images/unityVSCode003.png&quot; alt=&quot;Pick a project inside Unity's folder&quot; align=&quot;middle&quot; /&gt;&lt;/a&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Now you should be able to visualize all the scripts within an Unity project and use the Intellisense. &lt;/p&gt;
+&lt;p&gt;Now you should be able to visualize all the scripts within an Unity project and use the Intellisense.&lt;/p&gt;
 
 &lt;div align=&quot;center&quot;&gt;
 &lt;figure&gt;
@@ -242,7 +466,7 @@
 &lt;/figure&gt;
 &lt;/div&gt;
 
-&lt;h3 id=&quot;bonus-stage-making-the-visual-code-de-default-unitys-ide&quot;&gt;4. [Bonus Stage] Making the Visual Code de Default Unity’s IDE&lt;/h3&gt;
+&lt;p&gt;###4. [Bonus Stage] Making the Visual Code de Default Unity’s IDE&lt;/p&gt;
 
 &lt;p&gt;Even though I am using Visual Studio Code I just didn’t change it inside of Unity. Why? There’s still one main feature that is missing in VSCode for Unity: Debugging. Still, I have maintained the Mono as Unity’s default IDE just as a quick shortcut do open and debug the code. But, if you want to completely giveaway Mono, here’s the step:&lt;/p&gt;
 
@@ -260,21 +484,19 @@
 
 &lt;p&gt;Hope that this was helpful for any Unity and Non Unity developer that wants to dig into this world. If you have any problems, and something to add please comment below. See ya.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/game/development/unity-quick-tips-using-microsoft-visual-studio-code-instead-of-monodevelop/&quot;&gt;Unity Quick Tips: Using Microsoft Visual Studio Code Instead of MonoDevelop&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;&quot;&gt;Kaze's Mind&lt;/a&gt; on July 04, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/game/development/unity-quick-tips-using-microsoft-visual-studio-code-instead-of-monodevelop/&quot;&gt;Unity Quick Tips: Using Microsoft Visual Studio Code Instead of MonoDevelop&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on July 04, 2015.&lt;/p&gt;</content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Using openCV and NLTK to Make Speech Synthesis Animation]]></title>
-  <link rel="alternate" type="text/html" href="/programming/using-opencv-and-nltk-to-make-speech-synthesis-animation/" />
-  <id>/programming/using-opencv-and-nltk-to-make-speech-synthesis-animation</id>
-  <published>2015-06-16T09:20:32-03:00</published>
-  <updated>2015-06-16T09:20:32-03:00</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/programming/using-opencv-and-nltk-to-make-speech-synthesis-animation/" />
+  <id>http://localhost:4000/programming/using-opencv-and-nltk-to-make-speech-synthesis-animation</id>
+  <published>2015-06-16T13:20:32+01:00</published>
+  <updated>2015-06-16T13:20:32+01:00</updated>
   <author>
     <name>Luiz Guilherme</name>
-    <uri></uri>
+    <uri>http://localhost:4000</uri>
     <email>luiz@kaze.io</email>
   </author>
   <content type="html">&lt;p&gt;The project of this article is hosted at &lt;a href=&quot;http://github.com/kazenotenshi/NLPAnimation&quot;&gt;http://github.com/kazenotenshi/NLPAnimation&lt;/a&gt;.&lt;/p&gt;
@@ -299,12 +521,12 @@
 
 &lt;h2 id=&quot;coding&quot;&gt;Coding&lt;/h2&gt;
 
-&lt;p&gt;The main files of the project are phonemes.py and imageprototype.py. The other ones where just small tests that I had conducted during the development just to verify some assumptions. &lt;/p&gt;
+&lt;p&gt;The main files of the project are phonemes.py and imageprototype.py. The other ones where just small tests that I had conducted during the development just to verify some assumptions.&lt;/p&gt;
 
 &lt;p&gt;The file phonemes.py is more like a “.h” file to store the image library and the phonemes correspondence to these images that is gonna be really useful during the pre-processing phase. Each word will be translated to a list of phonemes ( e.g: NATURAL = [N ,AE1,CH,ER0,AH0,L] ) and that the global list of phonemes will have an image associated to it. Refer to NLTK Doc ( &lt;a href=&quot;http://www.nltk.org/_modules/nltk/corpus/reader/cmudict.html&quot;&gt;here&lt;/a&gt; ) about how these phonemes work. Along with the phoneme information, NLTK provides some intonation information of every word, it will be useful later. The file phonemes.py has two main structures: mouths and PhonemesToMouth. The file is implemented as shown below:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;cv2&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;numpy&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;np&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;cv2&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;numpy&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;
 &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;os&lt;/span&gt;
 &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;time&lt;/span&gt;
 &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;sys&lt;/span&gt;
@@ -312,58 +534,58 @@
 
 &lt;span class=&quot;c&quot;&gt;## Importing all the mouth images&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;mouths&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;os&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;listdir&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;./mouths&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;endswith&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;os&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;listdir&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;./mouths&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;endswith&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;.jpg&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
         &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;img&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cv2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;imread&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;./mouths&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;/&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;mouths&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;img&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;img&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cv2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;imread&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;./mouths&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;/&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;mouths&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;img&lt;/span&gt;
         &lt;span class=&quot;k&quot;&gt;continue&lt;/span&gt;
 &lt;span class=&quot;c&quot;&gt;#print mouths&lt;/span&gt;
 
 &lt;span class=&quot;c&quot;&gt;#Creating the Dictionary between phonemes and mouths&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;PhonemeToMouth&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;AA&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_o.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;AH&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_c_d_g_k_n_r_s_th_y_z.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;AW&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_c_d_g_k_n_r_s_th_y_z.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;AE&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_a_i.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;AO&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_o.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;AY&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_a_i.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;B&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_m_b_p.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;CH&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_c_d_g_k_n_r_s_th_y_z.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;DH&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_c_d_g_k_n_r_s_th_y_z.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;D&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_c_d_g_k_n_r_s_th_y_z.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;EH&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_e.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;EY&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_a_i.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;ER&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_u.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;F&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_f_v_d_th.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;G&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_c_d_g_k_n_r_s_th_y_z.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;HH&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_c_d_g_k_n_r_s_th_y_z.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;IY&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_e.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;IH&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_a_i.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;JH&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_c_d_g_k_n_r_s_th_y_z.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;K&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_c_d_g_k_n_r_s_th_y_z.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;L&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_l_d_th.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;M&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_m_b_p.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;NG&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_c_d_g_k_n_r_s_th_y_z.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;N&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_c_d_g_k_n_r_s_th_y_z.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;OY&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_a_i.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;OW&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_o.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;P&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_m_b_p.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;T&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_l_d_th.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;R&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_c_d_g_k_n_r_s_th_y_z.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;SH&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_c_d_g_k_n_r_s_th_y_z.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;S&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_c_d_g_k_n_r_s_th_y_z.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;TH&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_f_v_d_th.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;UH&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_c_d_g_k_n_r_s_th_y_z.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;UW&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_u.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;W&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_w_q.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;V&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_f_v_d_th.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;Y&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_c_d_g_k_n_r_s_th_y_z.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;ZH&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_c_d_g_k_n_r_s_th_y_z.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;&amp;#39;Z&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;blair_c_d_g_k_n_r_s_th_y_z.jpg&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;span class=&quot;n&quot;&gt;PhonemeToMouth&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'AA'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_o.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'AH'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_c_d_g_k_n_r_s_th_y_z.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'AW'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_c_d_g_k_n_r_s_th_y_z.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'AE'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_a_i.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'AO'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_o.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'AY'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_a_i.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'B'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_m_b_p.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'CH'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_c_d_g_k_n_r_s_th_y_z.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'DH'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_c_d_g_k_n_r_s_th_y_z.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'D'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_c_d_g_k_n_r_s_th_y_z.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'EH'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_e.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'EY'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_a_i.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'ER'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_u.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'F'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_f_v_d_th.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'G'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_c_d_g_k_n_r_s_th_y_z.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'HH'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_c_d_g_k_n_r_s_th_y_z.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'IY'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_e.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'IH'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_a_i.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'JH'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_c_d_g_k_n_r_s_th_y_z.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'K'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_c_d_g_k_n_r_s_th_y_z.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'L'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_l_d_th.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'M'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_m_b_p.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'NG'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_c_d_g_k_n_r_s_th_y_z.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'N'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_c_d_g_k_n_r_s_th_y_z.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'OY'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_a_i.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'OW'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_o.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'P'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_m_b_p.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'T'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_l_d_th.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'R'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_c_d_g_k_n_r_s_th_y_z.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'SH'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_c_d_g_k_n_r_s_th_y_z.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'S'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_c_d_g_k_n_r_s_th_y_z.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'TH'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_f_v_d_th.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'UH'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_c_d_g_k_n_r_s_th_y_z.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'UW'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_u.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'W'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_w_q.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'V'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_f_v_d_th.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'Y'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_c_d_g_k_n_r_s_th_y_z.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'ZH'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_c_d_g_k_n_r_s_th_y_z.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;'Z'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'blair_c_d_g_k_n_r_s_th_y_z.jpg'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Now, let’s move to the next part. A sample text is written at sample.txt file. The first thing is to translate this file to a [word,phoneme] list. To do it, the program has to open the file, split the string into words using a tokenizer and find all the file correspondences in the phoneme dictionary. The code snippet bellow shows how to open the file, separate it into words, and find the phoneme correspondence to each word in the phoneme dictionary provided by NTLK.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;file_content&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;sample.txt&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;file_content&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;sample.txt&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;tokens&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;nltk&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;word_tokenize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;file_content&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tokens&lt;/span&gt;
 
@@ -376,19 +598,19 @@
     &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;entry&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;entries&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
         &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;token&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lower&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]:&lt;/span&gt;
             &lt;span class=&quot;n&quot;&gt;TextToSpeech&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;append&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;break&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+            &lt;span class=&quot;k&quot;&gt;break&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;A disclaimer: this is not the best optimized way to find words in a big list. Actually, it is really slow right now. For proof of concept purposes it just works. Still, I have some ideias to improve this part, I’ll try some stuff and probably put the results here later.&lt;/p&gt;
 
 &lt;p&gt;The TextToSpeech variable will hold something like:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;u&amp;#39;and&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;u&amp;#39;AH0&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;u&amp;#39;N&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;u&amp;#39;D&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]),&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;u&amp;#39;there&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;u&amp;#39;DH&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;u&amp;#39;EH1&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;u&amp;#39;R&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]),&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;...&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;u'and'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;u'AH0'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;u'N'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;u'D'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]),&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;u'there'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;u'DH'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;u'EH1'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;u'R'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]),&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;...&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Now, for every phoneme of every word, the phoneme time has to be inferred, and the proper image has to be shown during the speech. Here comes a harder part. I have researched many different libraries to do the speaking part. And none of then provided me a truly reliable callback to know the time for each word. The one I decided to use was the OSX’s NSSpeechSynthetizer, which is used by pyttsx library. Pyttsx is a python biding for Speech Synthesis in many different OS.&lt;/p&gt;
 
 &lt;p&gt;The hard coded part of this tutorial was to infer what is a normal phoneme, long phoneme and small phoneme. For each word, the program iterates over the list of phonemes and applies the corresponding times to each phoneme before the speech and visual processing. If the phoneme has a number 1 on it, it is a long phoneme, if it has a 0 it is a small one. Take a look at the code below:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;timePerPhoneme&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.15&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;timePerPhoneme&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.15&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;longPhonemeBonus&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.05&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;smallPhonemeBonus&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;0.05&lt;/span&gt;
 
@@ -402,27 +624,27 @@
     &lt;span class=&quot;n&quot;&gt;MouthsToShow&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[]&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ph&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]:&lt;/span&gt;
         &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;key&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;value&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;phonemes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PhonemeToMouth&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;items&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;1&amp;#39;&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ph&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'1'&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ph&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
                 &lt;span class=&quot;n&quot;&gt;timeForAWord&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;timePerPhoneme&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;longPhonemeBonus&lt;/span&gt;
                 &lt;span class=&quot;n&quot;&gt;timeOfThisPhoneme&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;timePerPhoneme&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;longPhonemeBonus&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;elif&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;0&amp;#39;&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ph&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;elif&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'0'&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ph&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
                 &lt;span class=&quot;n&quot;&gt;timeForAWord&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;timePerPhoneme&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;smallPhonemeBonus&lt;/span&gt;
                 &lt;span class=&quot;n&quot;&gt;timeOfThisPhoneme&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;timePerPhoneme&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;smallPhonemeBonus&lt;/span&gt;
             &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
                 &lt;span class=&quot;n&quot;&gt;timeForAWord&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;timePerPhoneme&lt;/span&gt;
                 &lt;span class=&quot;n&quot;&gt;timeOfThisPhoneme&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;timePerPhoneme&lt;/span&gt;
             &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;key&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ph&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-                &lt;span class=&quot;n&quot;&gt;MouthsToShow&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;append&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;timeOfThisPhoneme&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+                &lt;span class=&quot;n&quot;&gt;MouthsToShow&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;append&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;timeOfThisPhoneme&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Why do I hold both phoneme and word time? Because the phonemes time are used for the mouths independently, and the word time is used by the speech synthesis.&lt;/p&gt;
 
 &lt;p&gt;During speech, a main problem is that the call holds the program until all the speaking is done. Since the main ideia is to speech and visualization at the same time, a multi-threading approach must be done. Each time I need to speak a word, I’ll call a function from another thread to avoid interruptions and put a wait time, so the speaking is not cut in the middle. Look at the code below:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;c&quot;&gt;# called by each thread&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;c&quot;&gt;# called by each thread&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;speak_word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;waittime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
     &lt;span class=&quot;n&quot;&gt;nssp&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;NSSpeechSynthesizer&lt;/span&gt;
     &lt;span class=&quot;n&quot;&gt;ve&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;nssp&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;alloc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;init&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;ve&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;setVoice_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;com.apple.speech.synthesis.voice.Alex&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;ve&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;setVoice_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;com.apple.speech.synthesis.voice.Alex&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
     &lt;span class=&quot;n&quot;&gt;ve&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;startSpeakingString_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 
     &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sleep&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;waittime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
@@ -432,21 +654,21 @@
     &lt;span class=&quot;k&quot;&gt;try&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
         &lt;span class=&quot;n&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;thread&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;start_new_thread&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;speak_word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;timeForAWord&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;except&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Error: unable to start thread for audio =/&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+        &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Error: unable to start thread for audio =/&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Finally, the program uses the OpenCV to show the images of the mouths using the same time information collected before and the dictionary that maps mouths to phonemes. This part is shown below:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;c&quot;&gt;#Show Mouths&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;    &lt;span class=&quot;c&quot;&gt;#Show Mouths&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;mouth&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;MouthsToShow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
         &lt;span class=&quot;n&quot;&gt;img&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;phonemes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mouths&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mouth&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]]&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;cv2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;imshow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;window&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;img&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;cv2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;imshow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'window'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;img&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
         &lt;span class=&quot;n&quot;&gt;cv2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;waitKey&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sleep&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mouth&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+        &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sleep&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mouth&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;The complete imageprototype.py code is:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;cv2&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;numpy&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;np&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;cv2&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;numpy&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;
 &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;os&lt;/span&gt;
 &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;time&lt;/span&gt;
 &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;sys&lt;/span&gt;
@@ -465,14 +687,14 @@
 &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;speak_word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;waittime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
     &lt;span class=&quot;n&quot;&gt;nssp&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;NSSpeechSynthesizer&lt;/span&gt;
     &lt;span class=&quot;n&quot;&gt;ve&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;nssp&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;alloc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;init&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;ve&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;setVoice_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;com.apple.speech.synthesis.voice.Alex&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;ve&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;setVoice_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;com.apple.speech.synthesis.voice.Alex&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
     &lt;span class=&quot;n&quot;&gt;ve&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;startSpeakingString_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 
     &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sleep&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;waittime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt;
 
 
-&lt;span class=&quot;n&quot;&gt;file_content&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;sample.txt&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;file_content&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;sample.txt&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;tokens&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;nltk&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;word_tokenize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;file_content&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 
 &lt;span class=&quot;n&quot;&gt;entries&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;nltk&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;corpus&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cmudict&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;entries&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
@@ -496,10 +718,10 @@
     &lt;span class=&quot;n&quot;&gt;MouthsToShow&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[]&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ph&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]:&lt;/span&gt;
         &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;key&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;value&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;phonemes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PhonemeToMouth&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;items&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;1&amp;#39;&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ph&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'1'&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ph&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
                 &lt;span class=&quot;n&quot;&gt;timeForAWord&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;timePerPhoneme&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;longPhonemeBonus&lt;/span&gt;
                 &lt;span class=&quot;n&quot;&gt;timeOfThisPhoneme&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;timePerPhoneme&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;longPhonemeBonus&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;elif&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;0&amp;#39;&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ph&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;elif&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'0'&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ph&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
                 &lt;span class=&quot;n&quot;&gt;timeForAWord&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;timePerPhoneme&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;smallPhonemeBonus&lt;/span&gt;
                 &lt;span class=&quot;n&quot;&gt;timeOfThisPhoneme&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;timePerPhoneme&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;smallPhonemeBonus&lt;/span&gt;
             &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
@@ -512,14 +734,14 @@
     &lt;span class=&quot;k&quot;&gt;try&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
         &lt;span class=&quot;n&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;thread&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;start_new_thread&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;speak_word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;timeForAWord&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;except&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Error: unable to start thread for audio =/&amp;quot;&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Error: unable to start thread for audio =/&quot;&lt;/span&gt;
 
     &lt;span class=&quot;c&quot;&gt;#Show Mouths&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;mouth&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;MouthsToShow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
         &lt;span class=&quot;n&quot;&gt;img&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;phonemes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mouths&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mouth&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]]&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;cv2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;imshow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;window&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;img&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;cv2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;imshow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'window'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;img&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
         &lt;span class=&quot;n&quot;&gt;cv2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;waitKey&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sleep&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mouth&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+        &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sleep&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mouth&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;/h2&gt;
 
@@ -529,21 +751,19 @@
 
 &lt;p&gt;Thanks for reading, and I appreciate any feedback. See ya.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/programming/using-opencv-and-nltk-to-make-speech-synthesis-animation/&quot;&gt;Using openCV and NLTK to Make Speech Synthesis Animation&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;&quot;&gt;Kaze's Mind&lt;/a&gt; on June 16, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/programming/using-opencv-and-nltk-to-make-speech-synthesis-animation/&quot;&gt;Using openCV and NLTK to Make Speech Synthesis Animation&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on June 16, 2015.&lt;/p&gt;</content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[A Time Off]]></title>
-  <link rel="alternate" type="text/html" href="/personal/a-time-off/" />
-  <id>/personal/a-time-off</id>
-  <published>2015-03-13T15:31:47-03:00</published>
-  <updated>2015-03-13T15:31:47-03:00</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/personal/a-time-off/" />
+  <id>http://localhost:4000/personal/a-time-off</id>
+  <published>2015-03-13T18:31:47+00:00</published>
+  <updated>2015-03-13T18:31:47+00:00</updated>
   <author>
     <name>Luiz Guilherme</name>
-    <uri></uri>
+    <uri>http://localhost:4000</uri>
     <email>luiz@kaze.io</email>
   </author>
   <content type="html">&lt;p&gt;These last weeks has been very stressful because I had to prepare everything before my vacation. Seems a long long time since my last time off. When a mean time off, I mean the whole month without working, or studying, or writing, etc. A completely forced disconnection of the world around. Also, seems that the more you need it, the more you can’t do it. I’m not a freaking workaholic person, but I like to see new things, study and work more sometimes just for fun. Well, It has been too much these years.&lt;/p&gt;
@@ -555,43 +775,39 @@
 &lt;p&gt;So, see ya guys. I’ll be back in a Month =)&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/personal/a-time-off/&quot;&gt;A Time Off&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;&quot;&gt;Kaze's Mind&lt;/a&gt; on March 13, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/personal/a-time-off/&quot;&gt;A Time Off&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on March 13, 2015.&lt;/p&gt;</content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Funny Scrum Overview]]></title>
-  <link rel="alternate" type="text/html" href="/scrum/funny-scrum-overview/" />
-  <id>/scrum/funny-scrum-overview</id>
-  <published>2015-02-26T17:50:53-03:00</published>
-  <updated>2015-02-26T17:50:53-03:00</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/scrum/funny-scrum-overview/" />
+  <id>http://localhost:4000/scrum/funny-scrum-overview</id>
+  <published>2015-02-26T20:50:53+00:00</published>
+  <updated>2015-02-26T20:50:53+00:00</updated>
   <author>
     <name>Luiz Guilherme</name>
-    <uri></uri>
+    <uri>http://localhost:4000</uri>
     <email>luiz@kaze.io</email>
   </author>
-  <content type="html">&lt;p&gt;Since I’ve been out of the blog for a while because of my P.hD studies, I’ll keep something really funny related to my last post. I have seen many different parodies of this video, but this is one of the funiest ever. &lt;/p&gt;
+  <content type="html">&lt;p&gt;Since I’ve been out of the blog for a while because of my P.hD studies, I’ll keep something really funny related to my last post. I have seen many different parodies of this video, but this is one of the funiest ever.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/K1gij0JJV7A&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/scrum/funny-scrum-overview/&quot;&gt;Funny Scrum Overview&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;&quot;&gt;Kaze's Mind&lt;/a&gt; on February 26, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/scrum/funny-scrum-overview/&quot;&gt;Funny Scrum Overview&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on February 26, 2015.&lt;/p&gt;</content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[A Different View of the Scrum Master Role]]></title>
-  <link rel="alternate" type="text/html" href="/scrum/a-different-view-of-the-scrum-master-role/" />
-  <id>/scrum/a-different-view-of-the-scrum-master-role</id>
-  <published>2015-02-11T21:27:15-02:00</published>
-  <updated>2015-02-11T21:27:15-02:00</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/scrum/a-different-view-of-the-scrum-master-role/" />
+  <id>http://localhost:4000/scrum/a-different-view-of-the-scrum-master-role</id>
+  <published>2015-02-11T23:27:15+00:00</published>
+  <updated>2015-02-11T23:27:15+00:00</updated>
   <author>
     <name>Luiz Guilherme</name>
-    <uri></uri>
+    <uri>http://localhost:4000</uri>
     <email>luiz@kaze.io</email>
   </author>
   <content type="html">&lt;p&gt;I just have finished my first sprint as a Scrum Master, and I’m really happy about it. It is a sightly different experience for me. To sum up, as a researcher there are some differences between the software house approach of Scrum and the Researcher one. This article will summarize the Scrum Master role, and point out some of these differences. This is more a personal opinion rather than a general concept.&lt;/p&gt;
@@ -662,7 +878,7 @@
 
 &lt;h4 id=&quot;the-team&quot;&gt;The Team&lt;/h4&gt;
 
-&lt;p&gt;These are the guys who pull the sleeves and make great things happen. They are responsible for calculating the &lt;strong&gt;Effort&lt;/strong&gt; of the &lt;strong&gt;Stories&lt;/strong&gt;, and consequently the Return of Value(ROI) of each one, execute the sprint, present the review, and improve the process during the retrospective. &lt;/p&gt;
+&lt;p&gt;These are the guys who pull the sleeves and make great things happen. They are responsible for calculating the &lt;strong&gt;Effort&lt;/strong&gt; of the &lt;strong&gt;Stories&lt;/strong&gt;, and consequently the Return of Value(ROI) of each one, execute the sprint, present the review, and improve the process during the retrospective.&lt;/p&gt;
 
 &lt;h4 id=&quot;the-scrum-master&quot;&gt;The Scrum Master&lt;/h4&gt;
 
@@ -707,21 +923,19 @@
 
 &lt;p&gt;If you came until here, thanks! Love to interact via comments if you like or dislike this article.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/scrum/a-different-view-of-the-scrum-master-role/&quot;&gt;A Different View of the Scrum Master Role&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;&quot;&gt;Kaze's Mind&lt;/a&gt; on February 11, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/scrum/a-different-view-of-the-scrum-master-role/&quot;&gt;A Different View of the Scrum Master Role&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on February 11, 2015.&lt;/p&gt;</content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[P.hD Diary - PCL Installation and Configuration on OSX]]></title>
-  <link rel="alternate" type="text/html" href="/phd/p-hd-diary-pcl-installation-and-configuration-on-osx/" />
-  <id>/phd/p-hd-diary-pcl-installation-and-configuration-on-osx</id>
-  <published>2015-01-29T21:02:44-02:00</published>
-  <updated>2015-01-29T21:02:44-02:00</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/phd/p-hd-diary-pcl-installation-and-configuration-on-osx/" />
+  <id>http://localhost:4000/phd/p-hd-diary-pcl-installation-and-configuration-on-osx</id>
+  <published>2015-01-29T23:02:44+00:00</published>
+  <updated>2015-01-29T23:02:44+00:00</updated>
   <author>
     <name>Luiz Guilherme</name>
-    <uri></uri>
+    <uri>http://localhost:4000</uri>
     <email>luiz@kaze.io</email>
   </author>
   <content type="html">&lt;p&gt;As a part of my investigatory phase right now I was looking for good libraries that work good with Kinect. My personal computer is an old pacman Macbook Pro that is been very good thru all these years.  In this post I’ll explain how to setup a Mac properly to use PCL libraries ( no nostalgic posts right now ). For more information about the library itself visit &lt;a href=&quot;http://pointclouds.org/&quot;&gt;http://pointclouds.org/&lt;/a&gt;. This tutorial was done in a machine with OSX 10.10 ( Yosemite ), 4GB DDR3 memory and a Core2Duo Processor. Differences for different configurations may happen.&lt;/p&gt;
@@ -741,11 +955,11 @@
 
 &lt;p&gt;First things first, lets install brew. It pretty simple, just open a terminal window and type:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;ruby -e &lt;span class=&quot;s2&quot;&gt;&amp;quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;ruby &lt;span class=&quot;nt&quot;&gt;-e&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;curl &lt;span class=&quot;nt&quot;&gt;-fsSL&lt;/span&gt; https://raw.githubusercontent.com/Homebrew/install/master/install&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;This will automatically get and install all the necessary binaries to run the package. After installing, I’ve made a simple config to use sudo with brew because of some permission errors I was having in my machine. This is totally optional, but if you face these problems just type:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;sudo chown root:wheel &lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;which brew&lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;chown root:wheel &lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;which brew&lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;h3 id=&quot;installing-pcl-dependencies&quot;&gt;Installing PCL Dependencies&lt;/h3&gt;
 
@@ -762,13 +976,13 @@
 
 &lt;p&gt;One of the good things of using a package manager is that is easy to find and trigger an installation of all these dependencies. In brew, you must “tap” two repositories and before installing these packages. The commands are:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;sudo brew update
-sudo brew tap homebrew/science
-sudo brew tap totakke/openni2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;brew update
+&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;brew tap homebrew/science
+&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;brew tap totakke/openni2&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;It will download some git repositories with information about those packages. Finally, to install the dependencies just type:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;sudo brew install -vd sip pyqt libusb cmake boost flann qhull glew qt vtk openni openni2 openni2-freenectdriver&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;brew install &lt;span class=&quot;nt&quot;&gt;-vd&lt;/span&gt; sip pyqt libusb cmake boost flann qhull glew qt vtk openni openni2 openni2-freenectdriver&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;It will take a long time, enjoy a good book in the middle time =)&lt;/p&gt;
 
@@ -776,7 +990,7 @@ sudo brew tap totakke/openni2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Similar to the previous step, now we just have to tell brew to install PCL with the command:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;sudo brew install -vd pcl --HEAD --with-openni --with-examples&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;brew install &lt;span class=&quot;nt&quot;&gt;-vd&lt;/span&gt; pcl &lt;span class=&quot;nt&quot;&gt;--HEAD&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--with-openni&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--with-examples&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Just a little parentheses here. The option “—HEAD” says that it gonna get the HEAD of PCL repository, which is now PCL 1.8. In their website, the downloadable version is 1.6. I had a lot of trouble using the 1.6 under Yosemite, so I do not recommend using it. The “–with-openni” option will assume that you’re gonna use this library with PCL ( which is optional, but mandatory if you’d like to use Kinect Viewer ).&lt;/p&gt;
 
@@ -786,8 +1000,8 @@ sudo brew tap totakke/openni2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;If everything went well ( and I hope it did ), there’s some post configs you must do. For OpenNi 2 libs you must export some environments vars using:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;OPENNI2_INCLUDE&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/usr/local/include/ni2
-&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;OPENNI2_REDIST&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/usr/local/lib/ni2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;OPENNI2_INCLUDE&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/usr/local/include/ni2
+&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;OPENNI2_REDIST&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/usr/local/lib/ni2&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;You might want to put these commands on your ~/.bash_profile as well to avoid doing this command again.&lt;/p&gt;
 
@@ -795,13 +1009,13 @@ sudo brew tap totakke/openni2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Following the &lt;a href=&quot;http://pointclouds.org/documentation/tutorials/openni_grabber.php#openni-grabber&quot;&gt;Kinect Example&lt;/a&gt; found in their site, and making some few modifications, lets make a simple test just to show Kinect’s video. Create a file called open_viewer_simple.cpp with the following code:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cpp&quot; data-lang=&quot;cpp&quot;&gt;&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;pcl/io/openni_grabber.h&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;pcl/visualization/cloud_viewer.h&amp;gt;&lt;/span&gt;
-
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cpp&quot; data-lang=&quot;cpp&quot;&gt;&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;pcl/io/openni_grabber.h&amp;gt;
+#include &amp;lt;pcl/visualization/cloud_viewer.h&amp;gt;
+&lt;/span&gt;
  &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;SimpleOpenNIViewer&lt;/span&gt;
  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
    &lt;span class=&quot;k&quot;&gt;public&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;
-     &lt;span class=&quot;n&quot;&gt;SimpleOpenNIViewer&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;viewer&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;PCL OpenNI Viewer&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
+     &lt;span class=&quot;n&quot;&gt;SimpleOpenNIViewer&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;viewer&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;PCL OpenNI Viewer&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
 
      &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cloud_cb_&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pcl&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PointCloud&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pcl&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PointXYZ&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;::&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ConstPtr&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cloud&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
      &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
@@ -836,11 +1050,11 @@ sudo brew tap totakke/openni2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
    &lt;span class=&quot;n&quot;&gt;SimpleOpenNIViewer&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;v&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
    &lt;span class=&quot;n&quot;&gt;v&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;run&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+ &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;And also, a CMakeLists.txt in the same folder with the following content:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;cmake_minimum_required&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;VERSION 2.8 FATAL_ERROR&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;cmake_minimum_required&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;VERSION 2.8 FATAL_ERROR&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
 
 project&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;openni_grabber&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
 
@@ -855,23 +1069,23 @@ IF &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;APPLE&lt;span class=&quot;o&quo
       /System/Library/Frameworks/GLEW.framework/Versions/A/Headers
       &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;OPENGL_LIBRARY_DIR&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;
     &lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
-    SET&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;GLEW_GLEW_LIBRARY &lt;span class=&quot;s2&quot;&gt;&amp;quot;-lGLEW&amp;quot;&lt;/span&gt; CACHE STRING &lt;span class=&quot;s2&quot;&gt;&amp;quot;GLEW library for OSX&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
-    SET&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;GLEW_cocoa_LIBRARY &lt;span class=&quot;s2&quot;&gt;&amp;quot;-framework Cocoa&amp;quot;&lt;/span&gt; CACHE STRING &lt;span class=&quot;s2&quot;&gt;&amp;quot;Cocoa framework for OSX&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+    SET&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;GLEW_GLEW_LIBRARY &lt;span class=&quot;s2&quot;&gt;&quot;-lGLEW&quot;&lt;/span&gt; CACHE STRING &lt;span class=&quot;s2&quot;&gt;&quot;GLEW library for OSX&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+    SET&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;GLEW_cocoa_LIBRARY &lt;span class=&quot;s2&quot;&gt;&quot;-framework Cocoa&quot;&lt;/span&gt; CACHE STRING &lt;span class=&quot;s2&quot;&gt;&quot;Cocoa framework for OSX&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
   ENDIF &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;APPLE&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
 add_executable &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;openni_grabber openni_viewer_simple.cpp&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
-target_link_libraries &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;openni_grabber &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;PCL_LIBRARIES&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+target_link_libraries &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;openni_grabber &lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;PCL_LIBRARIES&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Another parentheses here. I added the IF(APPLE) section because somehow make was getting a different configuration for GLEW which broke the compilation. This block is to make sure the the flag “-lGLEW” is called instead of “-framework GLEW”. Since we’ve installed everything via brew, this is the right way to call GLEW library&lt;/p&gt;
 
 &lt;p&gt;Now let’s build everything. In a terminal type:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;mkdir build
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;mkdir build
 &lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;build
-cmake ..&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+cmake ..&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;In the build folder you may have an executable called “openni_grabber”. Just execute it typing:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;./openni_grabber&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;./openni_grabber&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;conclusions&quot;&gt;Conclusions&lt;/h2&gt;
 
@@ -879,21 +1093,19 @@ cmake ..&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;If you read until here, thanks! Leave a feedback in the comments, and see ya!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/phd/p-hd-diary-pcl-installation-and-configuration-on-osx/&quot;&gt;P.hD Diary - PCL Installation and Configuration on OSX&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;&quot;&gt;Kaze's Mind&lt;/a&gt; on January 29, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/phd/p-hd-diary-pcl-installation-and-configuration-on-osx/&quot;&gt;P.hD Diary - PCL Installation and Configuration on OSX&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on January 29, 2015.&lt;/p&gt;</content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[P.hD Diary - the Beginning]]></title>
-  <link rel="alternate" type="text/html" href="/phd/p-hd-diary-the-beginning/" />
-  <id>/phd/p-hd-diary-the-beginning</id>
-  <published>2015-01-25T21:27:26-02:00</published>
-  <updated>2015-01-25T21:27:26-02:00</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/phd/p-hd-diary-the-beginning/" />
+  <id>http://localhost:4000/phd/p-hd-diary-the-beginning</id>
+  <published>2015-01-25T23:27:26+00:00</published>
+  <updated>2015-01-25T23:27:26+00:00</updated>
   <author>
     <name>Luiz Guilherme</name>
-    <uri></uri>
+    <uri>http://localhost:4000</uri>
     <email>luiz@kaze.io</email>
   </author>
   <content type="html">&lt;p&gt;Since this is a personal blog, I’ll try to do some stuff as a journal like as well. As you may notice I’m a P.hD Student also, and one of the thing that made me come again to the academia was the willing to study a little bit more things in the Entertainment area. I do work as a researcher now, but it is more for the Oil &amp;amp; Gas Field. They have a lot of interesting problems as well, but my dearest passion still resides in Entertainment.&lt;/p&gt;
@@ -902,27 +1114,25 @@ cmake ..&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/DBoChIFrj2c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;It is a 2013 Siggraph’s paper about realtime acquisition and avatar animation. The full paper is &lt;a href=&quot;http://lgg.epfl.ch/publications/2013/MIG.pdf&#39;http://lgg.epfl.ch/publications/2013/MIG.pdf&quot;&gt;here&lt;/a&gt;. This opened my mind to the real state of the technology. We not only don’t need points anymore, but also has much more data to deal with. &lt;/p&gt;
+&lt;p&gt;It is a 2013 Siggraph’s paper about realtime acquisition and avatar animation. The full paper is &lt;a href=&quot;http://lgg.epfl.ch/publications/2013/MIG.pdf'http://lgg.epfl.ch/publications/2013/MIG.pdf&quot;&gt;here&lt;/a&gt;. This opened my mind to the real state of the technology. We not only don’t need points anymore, but also has much more data to deal with.&lt;/p&gt;
 
 &lt;p&gt;The work is just in the beginning. My idea is to fill the blog with some of the stuff I’ve been researching and also exploring Tools and Techniques that I study.&lt;/p&gt;
 
 &lt;p&gt;See ya!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/phd/p-hd-diary-the-beginning/&quot;&gt;P.hD Diary - the Beginning&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;&quot;&gt;Kaze's Mind&lt;/a&gt; on January 25, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/phd/p-hd-diary-the-beginning/&quot;&gt;P.hD Diary - the Beginning&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on January 25, 2015.&lt;/p&gt;</content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[The Nostalgic Wololo]]></title>
-  <link rel="alternate" type="text/html" href="/games/the-nostalgic-wololo/" />
-  <id>/games/the-nostalgic-wololo</id>
-  <published>2015-01-19T17:22:38-02:00</published>
-  <updated>2015-01-19T17:22:38-02:00</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/games/the-nostalgic-wololo/" />
+  <id>http://localhost:4000/games/the-nostalgic-wololo</id>
+  <published>2015-01-19T19:22:38+00:00</published>
+  <updated>2015-01-19T19:22:38+00:00</updated>
   <author>
     <name>Luiz Guilherme</name>
-    <uri></uri>
+    <uri>http://localhost:4000</uri>
     <email>luiz@kaze.io</email>
   </author>
   <content type="html">&lt;p&gt;Back to the 2000 year, I just moved ( again ) with my parents to a new city in the countryside of Rio de Janeiro. I had just a 56Kbps dial-up connection that I could just use at night. Here in Brazil, between midnight and 6am if you make a call, no matter how long it was, they would only charge you in one ‘pulse’.&lt;/p&gt;
@@ -1015,37 +1225,35 @@ cmake ..&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Thanks for reading!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/games/the-nostalgic-wololo/&quot;&gt;The Nostalgic Wololo&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;&quot;&gt;Kaze's Mind&lt;/a&gt; on January 19, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/games/the-nostalgic-wololo/&quot;&gt;The Nostalgic Wololo&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on January 19, 2015.&lt;/p&gt;</content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Hello World]]></title>
-  <link rel="alternate" type="text/html" href="/programming/hello-world/" />
-  <id>/programming/hello-world</id>
-  <published>2015-01-10T22:01:04-02:00</published>
-  <updated>2015-01-10T22:01:04-02:00</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/programming/hello-world/" />
+  <id>http://localhost:4000/programming/hello-world</id>
+  <published>2015-01-11T00:01:04+00:00</published>
+  <updated>2015-01-11T00:01:04+00:00</updated>
   <author>
     <name>Luiz Guilherme</name>
-    <uri></uri>
+    <uri>http://localhost:4000</uri>
     <email>luiz@kaze.io</email>
   </author>
   <content type="html">&lt;p&gt;I think that I have no powers to overhelm such a big tradition, so…&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;stdio.h&amp;gt;&lt;/span&gt;
-
-&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
-     &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Hello World!&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-     &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;// Returns Safely =)&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;stdio.h&amp;gt;
+&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;main&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+     &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello World!&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+     &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;// Returns Safely =)
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Why C? Even though I have been exposed to many others and generally work with another language I also come back to it. I had some friends at college that used to hate it, they say “That language that has that * also creeps the hell of me”.&lt;/p&gt;
 
 &lt;p&gt;For me it was different, dunno why. My first computer was a 386 that had a MS-DOS and a Windows on the top of it. I used to make all the windows tutorials over and over again, and then come back to the command line and learn the few tricks I studied. C always remembers be that, during that time, it was the basis of almost every thing. Nowadays it always remembers me that if I want something really fast and low level based, I should use it. I’m kinda of nostalgic right now.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/programming/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;&quot;&gt;Kaze's Mind&lt;/a&gt; on January 10, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/programming/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on January 10, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>

