@@ -2,7 +2,7 @@
 layout: home
 tags: [blog]
 image:
-  feature: mysample-03.jpg
-  credit: Luiz Guilherme Oliveira dos Santos
+  feature: newCover01.jpeg
+  credit: Luiz Guilherme Oliveira dos Santos - Ilha Grande, Brazil.
   creditlink: https://www.facebook.com/luizsantosphotos
 ---

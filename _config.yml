@@ -28,12 +28,12 @@ kramdown:
 # Site owner
 owner:
   name: Luiz Guilherme
-  avatar: me.png
-  bio: "Game Developer, Software Engineer, Photographer, Ukulele Player"
+  avatar: me2.png
+  bio: "Game Programming Specialist, Kendoka, Photographer, Ukulele Player"
   email: luiz@kaze.io
   disqus-shortname: kazeio
   twitter: kazenotenshi
-  facebook: kazenotenshi
+  facebook: luizsantosphotos
   google:
     plus: #username
     analytics: UA-58347343-1
@@ -46,14 +46,14 @@ owner:
   linkedin: luizgosantos
   instagram: kaze_
   lastfm: #username
-  deviantart: kazen0tenshi
-  flickr: kazenotenshi
+  deviantart: #username
+  flickr: #username
   tumblr: #username
   pinterest: #username
   foursquare: #username
-  steam: kazen0tenshi
+  steam: #username
   dribbble: #username
-  youtube: kazenotenshi
+  youtube: #username
   soundcloud: #username
   weibo: #username
 

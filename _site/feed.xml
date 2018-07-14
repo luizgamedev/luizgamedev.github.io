@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2017-11-30T14:16:05+00:00</updated>
+<updated>2018-07-14T19:38:38+02:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Luiz Guilherme</name>
@@ -17,8 +17,8 @@
   <title type="html"><![CDATA[Leaving the Comfort Zone (for the Second Time)]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/personal/leaving-the-comfort-zone-for-the-second-time/" />
   <id>http://localhost:4000/personal/leaving-the-comfort-zone-for-the-second-time</id>
-  <published>2017-11-30T12:24:21+00:00</published>
-  <updated>2017-11-30T12:24:21+00:00</updated>
+  <published>2017-11-30T13:24:21+01:00</published>
+  <updated>2017-11-30T13:24:21+01:00</updated>
   <author>
     <name>Luiz Guilherme</name>
     <uri>http://localhost:4000</uri>
@@ -97,8 +97,8 @@
   <title type="html"><![CDATA[Global Game Jam 2016 - Thoughts, Experiences and a Small Post-Mortem]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/game/development/global-game-jam-2016-thoughts-experiences-and-a-small-post-mortem/" />
   <id>http://localhost:4000/game/development/global-game-jam-2016-thoughts-experiences-and-a-small-post-mortem</id>
-  <published>2016-02-02T16:00:01+00:00</published>
-  <updated>2016-02-02T16:00:01+00:00</updated>
+  <published>2016-02-02T17:00:01+01:00</published>
+  <updated>2016-02-02T17:00:01+01:00</updated>
   <author>
     <name>Luiz Guilherme</name>
     <uri>http://localhost:4000</uri>
@@ -217,8 +217,8 @@
   <title type="html"><![CDATA[The Big Change]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/personal/the-big-change/" />
   <id>http://localhost:4000/personal/the-big-change</id>
-  <published>2015-10-11T14:19:05+01:00</published>
-  <updated>2015-10-11T14:19:05+01:00</updated>
+  <published>2015-10-11T15:19:05+02:00</published>
+  <updated>2015-10-11T15:19:05+02:00</updated>
   <author>
     <name>Luiz Guilherme</name>
     <uri>http://localhost:4000</uri>
@@ -245,8 +245,8 @@
   <title type="html"><![CDATA[Asteroid's Game: Player Input]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/gamedev/programming/unity3d/asteroids-game-player-input/" />
   <id>http://localhost:4000/gamedev/programming/unity3d/asteroids-game-player-input</id>
-  <published>2015-07-29T23:45:40+01:00</published>
-  <updated>2015-07-29T23:45:40+01:00</updated>
+  <published>2015-07-30T00:45:40+02:00</published>
+  <updated>2015-07-30T00:45:40+02:00</updated>
   <author>
     <name>Luiz Guilherme</name>
     <uri>http://localhost:4000</uri>
@@ -388,7 +388,7 @@
 &lt;p&gt;That’s enough for now. Next post I’ll solve one problem that this code creates. If you have any comment I’ll be glad to help. See ya!&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/gamedev/programming/unity3d/asteroids-game-player-input/&quot;&gt;Asteroid's Game: Player Input&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on July 29, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/gamedev/programming/unity3d/asteroids-game-player-input/&quot;&gt;Asteroid's Game: Player Input&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on July 30, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -396,8 +396,8 @@
   <title type="html"><![CDATA[Unity Quick Tips: Using Microsoft Visual Studio Code Instead of MonoDevelop]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/game/development/unity-quick-tips-using-microsoft-visual-studio-code-instead-of-monodevelop/" />
   <id>http://localhost:4000/game/development/unity-quick-tips-using-microsoft-visual-studio-code-instead-of-monodevelop</id>
-  <published>2015-07-05T01:32:42+01:00</published>
-  <updated>2015-07-05T01:32:42+01:00</updated>
+  <published>2015-07-05T02:32:42+02:00</published>
+  <updated>2015-07-05T02:32:42+02:00</updated>
   <author>
     <name>Luiz Guilherme</name>
     <uri>http://localhost:4000</uri>
@@ -484,7 +484,7 @@ On the bottom left there’s an option called “pick a project”, just beside 
 
 &lt;p&gt;Hope that this was helpful for any Unity and Non Unity developer that wants to dig into this world. If you have any problems, and something to add please comment below. See ya.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/game/development/unity-quick-tips-using-microsoft-visual-studio-code-instead-of-monodevelop/&quot;&gt;Unity Quick Tips: Using Microsoft Visual Studio Code Instead of MonoDevelop&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on July 04, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/game/development/unity-quick-tips-using-microsoft-visual-studio-code-instead-of-monodevelop/&quot;&gt;Unity Quick Tips: Using Microsoft Visual Studio Code Instead of MonoDevelop&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on July 05, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -492,8 +492,8 @@ On the bottom left there’s an option called “pick a project”, just beside 
   <title type="html"><![CDATA[Using openCV and NLTK to Make Speech Synthesis Animation]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/programming/using-opencv-and-nltk-to-make-speech-synthesis-animation/" />
   <id>http://localhost:4000/programming/using-opencv-and-nltk-to-make-speech-synthesis-animation</id>
-  <published>2015-06-16T13:20:32+01:00</published>
-  <updated>2015-06-16T13:20:32+01:00</updated>
+  <published>2015-06-16T14:20:32+02:00</published>
+  <updated>2015-06-16T14:20:32+02:00</updated>
   <author>
     <name>Luiz Guilherme</name>
     <uri>http://localhost:4000</uri>
@@ -759,8 +759,8 @@ On the bottom left there’s an option called “pick a project”, just beside 
   <title type="html"><![CDATA[A Time Off]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/personal/a-time-off/" />
   <id>http://localhost:4000/personal/a-time-off</id>
-  <published>2015-03-13T18:31:47+00:00</published>
-  <updated>2015-03-13T18:31:47+00:00</updated>
+  <published>2015-03-13T19:31:47+01:00</published>
+  <updated>2015-03-13T19:31:47+01:00</updated>
   <author>
     <name>Luiz Guilherme</name>
     <uri>http://localhost:4000</uri>
@@ -783,8 +783,8 @@ On the bottom left there’s an option called “pick a project”, just beside 
   <title type="html"><![CDATA[Funny Scrum Overview]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/scrum/funny-scrum-overview/" />
   <id>http://localhost:4000/scrum/funny-scrum-overview</id>
-  <published>2015-02-26T20:50:53+00:00</published>
-  <updated>2015-02-26T20:50:53+00:00</updated>
+  <published>2015-02-26T21:50:53+01:00</published>
+  <updated>2015-02-26T21:50:53+01:00</updated>
   <author>
     <name>Luiz Guilherme</name>
     <uri>http://localhost:4000</uri>
@@ -803,8 +803,8 @@ On the bottom left there’s an option called “pick a project”, just beside 
   <title type="html"><![CDATA[A Different View of the Scrum Master Role]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/scrum/a-different-view-of-the-scrum-master-role/" />
   <id>http://localhost:4000/scrum/a-different-view-of-the-scrum-master-role</id>
-  <published>2015-02-11T23:27:15+00:00</published>
-  <updated>2015-02-11T23:27:15+00:00</updated>
+  <published>2015-02-12T00:27:15+01:00</published>
+  <updated>2015-02-12T00:27:15+01:00</updated>
   <author>
     <name>Luiz Guilherme</name>
     <uri>http://localhost:4000</uri>
@@ -923,7 +923,7 @@ On the bottom left there’s an option called “pick a project”, just beside 
 
 &lt;p&gt;If you came until here, thanks! Love to interact via comments if you like or dislike this article.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/scrum/a-different-view-of-the-scrum-master-role/&quot;&gt;A Different View of the Scrum Master Role&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on February 11, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/scrum/a-different-view-of-the-scrum-master-role/&quot;&gt;A Different View of the Scrum Master Role&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on February 12, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -931,8 +931,8 @@ On the bottom left there’s an option called “pick a project”, just beside 
   <title type="html"><![CDATA[P.hD Diary - PCL Installation and Configuration on OSX]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/phd/p-hd-diary-pcl-installation-and-configuration-on-osx/" />
   <id>http://localhost:4000/phd/p-hd-diary-pcl-installation-and-configuration-on-osx</id>
-  <published>2015-01-29T23:02:44+00:00</published>
-  <updated>2015-01-29T23:02:44+00:00</updated>
+  <published>2015-01-30T00:02:44+01:00</published>
+  <updated>2015-01-30T00:02:44+01:00</updated>
   <author>
     <name>Luiz Guilherme</name>
     <uri>http://localhost:4000</uri>
@@ -1093,7 +1093,7 @@ cmake ..&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;If you read until here, thanks! Leave a feedback in the comments, and see ya!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/phd/p-hd-diary-pcl-installation-and-configuration-on-osx/&quot;&gt;P.hD Diary - PCL Installation and Configuration on OSX&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on January 29, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/phd/p-hd-diary-pcl-installation-and-configuration-on-osx/&quot;&gt;P.hD Diary - PCL Installation and Configuration on OSX&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on January 30, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -1101,8 +1101,8 @@ cmake ..&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
   <title type="html"><![CDATA[P.hD Diary - the Beginning]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/phd/p-hd-diary-the-beginning/" />
   <id>http://localhost:4000/phd/p-hd-diary-the-beginning</id>
-  <published>2015-01-25T23:27:26+00:00</published>
-  <updated>2015-01-25T23:27:26+00:00</updated>
+  <published>2015-01-26T00:27:26+01:00</published>
+  <updated>2015-01-26T00:27:26+01:00</updated>
   <author>
     <name>Luiz Guilherme</name>
     <uri>http://localhost:4000</uri>
@@ -1120,7 +1120,7 @@ cmake ..&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;See ya!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/phd/p-hd-diary-the-beginning/&quot;&gt;P.hD Diary - the Beginning&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on January 25, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/phd/p-hd-diary-the-beginning/&quot;&gt;P.hD Diary - the Beginning&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on January 26, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -1128,8 +1128,8 @@ cmake ..&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
   <title type="html"><![CDATA[The Nostalgic Wololo]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/games/the-nostalgic-wololo/" />
   <id>http://localhost:4000/games/the-nostalgic-wololo</id>
-  <published>2015-01-19T19:22:38+00:00</published>
-  <updated>2015-01-19T19:22:38+00:00</updated>
+  <published>2015-01-19T20:22:38+01:00</published>
+  <updated>2015-01-19T20:22:38+01:00</updated>
   <author>
     <name>Luiz Guilherme</name>
     <uri>http://localhost:4000</uri>
@@ -1233,8 +1233,8 @@ cmake ..&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
   <title type="html"><![CDATA[Hello World]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/programming/hello-world/" />
   <id>http://localhost:4000/programming/hello-world</id>
-  <published>2015-01-11T00:01:04+00:00</published>
-  <updated>2015-01-11T00:01:04+00:00</updated>
+  <published>2015-01-11T01:01:04+01:00</published>
+  <updated>2015-01-11T01:01:04+01:00</updated>
   <author>
     <name>Luiz Guilherme</name>
     <uri>http://localhost:4000</uri>
@@ -1253,7 +1253,7 @@ cmake ..&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;For me it was different, dunno why. My first computer was a 386 that had a MS-DOS and a Windows on the top of it. I used to make all the windows tutorials over and over again, and then come back to the command line and learn the few tricks I studied. C always remembers be that, during that time, it was the basis of almost every thing. Nowadays it always remembers me that if I want something really fast and low level based, I should use it. I’m kinda of nostalgic right now.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/programming/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on January 10, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/programming/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by Luiz Guilherme at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kaze's Mind&lt;/a&gt; on January 11, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>

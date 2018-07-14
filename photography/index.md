@@ -6,7 +6,7 @@ modified: 2015-07-22T20:53:07.573882-04:00
 comments: true
 image:
   feature: mysample-06.jpg
-  credit: Luiz Guilherme Oliveira dos Santos
+  credit: Luiz Guilherme Oliveira dos Santos - Kyoto, Japan
   creditlink: https://www.facebook.com/luizsantosphotos
 ---
 
