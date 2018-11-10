@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portifolio
+title: Portfolio
 tags: [Research, GameDev, Programming]
 modified: 2015-01-09T20:53:07.573882-04:00
 comments: true
@@ -21,7 +21,7 @@ If you want to take a look at my LinkedIn just click <a href="http://bit.ly/LSan
 Some websites of my work and GameDev that I have participated:
 
 * Paranoia CRPG: <a href="http://www.black-shamrock.com/">Company Website</a>
-* Unannounced RTS (Blood Bowl Francise) : <a href="http://www.black-shamrock.com/">Company Website</a>
+* Blood Bowl Death Zone: <a href="http://www.black-shamrock.com/">Company Website</a>
 * VideoWave: <a href="https://www.youtube.com/watch?v=FxtfNcmPhCQ">Video Link</a>
 * Uku Game: <a href="http://bit.ly/uku-indiedb">Indie DB Link</a>
 * Favela Wars Game: <a href="http://www.favelawars.com">Main website</a>
