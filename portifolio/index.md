@@ -10,11 +10,17 @@ image:
   creditlink: https://www.facebook.com/luizsantosphotos
 ---
 
-If you're interested in talking to me about it, please feel free to send me an <a href="mailto:luiz@kaze.io">email</a>. Some of my work includes (but not limits to) :
+If you're interested in talking to me about it, please feel free to send me an <a href="mailto:luiz@kaze.io">email</a>. Some of my work includes (but it is not limited to) :
 
 ## Professional Experience:
 
 If you want to take a look at my LinkedIn just click <a href="http://bit.ly/LSantosLinkedInEN"> here</a>. My personal CV is also hosted <a href="http://bit.ly/LuizCV18"> here</a>.
+
+## Abilities
+* Agile Methodology
+* Risk Analysis
+* Task Estimations
+* Leadership
 
 ## Personal/GameDev Projects:
 
