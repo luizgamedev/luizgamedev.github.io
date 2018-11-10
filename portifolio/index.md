@@ -16,7 +16,8 @@ If you're interested in talking to me about it, please feel free to send me an <
 
 If you want to take a look at my LinkedIn just click <a href="http://bit.ly/LSantosLinkedInEN"> here</a>. My personal CV is also hosted <a href="http://bit.ly/LuizCV18"> here</a>.
 
-## Abilities
+## Abilities:
+
 * Agile Methodology
 * Risk Analysis
 * Task Estimations
