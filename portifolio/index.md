@@ -14,7 +14,7 @@ If you're interested in talking to me about it, please feel free to send me an <
 
 ## Professional Experience:
 
-If you want to take a look at my LinkedIn just click <a href="http://bit.ly/LSantosLinkedInEN"> here</a>. My personal CV is also hosted <a href="http://bit.ly/LuizCV18"> here</a>.
+If you want to take a look at my LinkedIn just click <a href="http://bit.ly/LSantosLinkedInEN"> here</a>. My personal CV is also hosted <a href="http://bit.ly/LuizCV19"> here</a>.
 
 ## Abilities:
 
