@@ -14,5 +14,5 @@ date: 2021-06-07T00:00:00+01:00
 
 
 <center>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/198169598@N04/albums/72177720308102882" title="2021-06 Italy-Sicily"><img src="https://live.staticflickr.com/65535/52879931266_7c7eec065f_b.jpg" width="1024" height="768" alt="2021-06 Italy-Sicily"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/198169598@N04/albums/72177720308119900" title="2021-06 Sicily, Italy"><img src="https://live.staticflickr.com/65535/52881979599_c6be05281d_h.jpg" width="1600" height="1200" alt="2021-06 Sicily, Italy"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </center>
