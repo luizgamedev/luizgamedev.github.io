@@ -1,5 +1,5 @@
 ---
-title: "Barcelona 2022"
+title: "2022-05 Barcelona"
 modified:
 categories: Photography
 excerpt: “Good food and amazing weather!"
@@ -9,7 +9,7 @@ image:
   image: /assets/photograph_headers/barcelona_2022/barcelona_header.jpg
   teaser: /assets/photograph_headers/barcelona_2022/barcelona_header-th.jpg
 layout: single
-date: 2022-05-07T14:19:05+01:00
+date: 2022-05-07T00:00:00+01:00
 ---
 
 
