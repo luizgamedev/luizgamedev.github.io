@@ -1,5 +1,5 @@
 ---
-title: "2021-06 - Rockbrook, Dublin - Ireland"
+title: "2021-06 Rockbrook, Dublin - Ireland"
 modified:
 categories: Photography
 excerpt: “A Nice Walk!"

@@ -1,5 +1,5 @@
 ---
-title: "2020 - Berlin - Germany"
+title: "2020 Berlin - Germany"
 modified:
 categories: Photography
 excerpt: “The Hipster City!"

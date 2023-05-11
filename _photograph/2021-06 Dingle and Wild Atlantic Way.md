@@ -1,5 +1,5 @@
 ---
-title: "2021-06 - Dingle and Wild Atlantic Way"
+title: "2021-06 Dingle and Wild Atlantic Way"
 modified:
 categories: Photography
 excerpt: “West Coast of Ireland is the best Coast!"
