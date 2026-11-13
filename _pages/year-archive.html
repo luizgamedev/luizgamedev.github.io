@@ -1,0 +1,19 @@
+---
+title: "Posts by Year"
+permalink: /year-archive/
+---
+
+{% assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% for year in years %}
+  <section class="year-section">
+    <h2 id="{{ year.name }}">{{ year.name }}</h2>
+    <ul>
+      {% for post in year.items %}
+        <li class="post-list-item">
+          <span class="home-date">{{ post.date | date: site.theme_config.date_format }}&raquo;</span>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endfor %}

@@ -36,7 +36,7 @@ The main files of the project are phonemes.py and imageprototype.py. The other o
 
 The file phonemes.py is more like a ".h" file to store the image library and the phonemes correspondence to these images that is gonna be really useful during the pre-processing phase. Each word will be translated to a list of phonemes ( e.g: NATURAL = [N ,AE1,CH,ER0,AH0,L] ) and that the global list of phonemes will have an image associated to it. Refer to NLTK Doc ( <a href="http://www.nltk.org/_modules/nltk/corpus/reader/cmudict.html">here</a> ) about how these phonemes work. Along with the phoneme information, NLTK provides some intonation information of every word, it will be useful later. The file phonemes.py has two main structures: mouths and PhonemesToMouth. The file is implemented as shown below:
 
-{% highlight python lineos %}
+```python
 import cv2
 import numpy as np
 import os
@@ -94,11 +94,11 @@ PhonemeToMouth={'AA':'blair_o.jpg',
 'Y':'blair_c_d_g_k_n_r_s_th_y_z.jpg',
 'ZH':'blair_c_d_g_k_n_r_s_th_y_z.jpg',
 'Z':'blair_c_d_g_k_n_r_s_th_y_z.jpg'}
-{% endhighlight %}
+```
 
 Now, let's move to the next part. A sample text is written at sample.txt file. The first thing is to translate this file to a [word,phoneme] list. To do it, the program has to open the file, split the string into words using a tokenizer and find all the file correspondences in the phoneme dictionary. The code snippet bellow shows how to open the file, separate it into words, and find the phoneme correspondence to each word in the phoneme dictionary provided by NTLK.
 
-{% highlight python lineos %}
+```python
 file_content = open("sample.txt").read()
 tokens = nltk.word_tokenize(file_content)
 print tokens
@@ -113,21 +113,21 @@ for token in tokens:
         if token.lower() == entry[0]:
             TextToSpeech.append(entry)
             break
-{% endhighlight %}
+```
 
 A disclaimer: this is not the best optimized way to find words in a big list. Actually, it is really slow right now. For proof of concept purposes it just works. Still, I have some ideias to improve this part, I'll try some stuff and probably put the results here later.
 
 The TextToSpeech variable will hold something like:
 
-{% highlight python lineos %}
+```python
 [(u'and', [u'AH0', u'N', u'D']), (u'there', [u'DH', u'EH1', u'R']), ... ]
-{% endhighlight %}
+```
 
 Now, for every phoneme of every word, the phoneme time has to be inferred, and the proper image has to be shown during the speech. Here comes a harder part. I have researched many different libraries to do the speaking part. And none of then provided me a truly reliable callback to know the time for each word. The one I decided to use was the OSX's NSSpeechSynthetizer, which is used by pyttsx library. Pyttsx is a python biding for Speech Synthesis in many different OS.
 
 The hard coded part of this tutorial was to infer what is a normal phoneme, long phoneme and small phoneme. For each word, the program iterates over the list of phonemes and applies the corresponding times to each phoneme before the speech and visual processing. If the phoneme has a number 1 on it, it is a long phoneme, if it has a 0 it is a small one. Take a look at the code below:
 
-{% highlight python lineos %}
+```python
 timePerPhoneme = 0.15
 longPhonemeBonus = 0.05
 smallPhonemeBonus = -0.05
@@ -153,13 +153,13 @@ for word in TextToSpeech:
                 timeOfThisPhoneme = timePerPhoneme
             if key in ph:
                 MouthsToShow.append((value, timeOfThisPhoneme))
-{% endhighlight %}
+```
 
 Why do I hold both phoneme and word time? Because the phonemes time are used for the mouths independently, and the word time is used by the speech synthesis.
 
 During speech, a main problem is that the call holds the program until all the speaking is done. Since the main ideia is to speech and visualization at the same time, a multi-threading approach must be done. Each time I need to speak a word, I'll call a function from another thread to avoid interruptions and put a wait time, so the speaking is not cut in the middle. Look at the code below:
 
-{% highlight python lineos %}
+```python
 # called by each thread
 def speak_word(word, waittime):
     nssp = NSSpeechSynthesizer
@@ -175,24 +175,23 @@ def speak_word(word, waittime):
         t = thread.start_new_thread(speak_word, (word[0], timeForAWord ) )
     except:
         print "Error: unable to start thread for audio =/"
-
-{% endhighlight %}
+```
 
 
 Finally, the program uses the OpenCV to show the images of the mouths using the same time information collected before and the dictionary that maps mouths to phonemes. This part is shown below:
 
-{% highlight python lineos %}
+```python
     #Show Mouths
     for mouth in MouthsToShow:
         img = phonemes.mouths[mouth[0]]
         cv2.imshow('window', img)
         cv2.waitKey(1)
         time.sleep(mouth[1])
-{% endhighlight %}
+```
 
 The complete imageprototype.py code is:
 
-{% highlight python lineos %}
+```python
 import cv2
 import numpy as np
 import os
@@ -268,7 +267,7 @@ for word in TextToSpeech:
         cv2.imshow('window', img)
         cv2.waitKey(1)
         time.sleep(mouth[1])
-{% endhighlight %}
+```
 
 ## Discussion
 

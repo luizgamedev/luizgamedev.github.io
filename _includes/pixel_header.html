@@ -1,0 +1,24 @@
+{%- comment -%}
+  Pixel-art Dublin Bay header. Pass compact=true on inner pages for a shorter scene.
+  The drawing is done by /assets/js/pixel-header.js; without JavaScript the
+  header falls back to a dusk gradient, so the text and nav still work.
+{%- endcomment -%}
+<header class="pixel-header{% if include.compact %} is-compact{% endif %}">
+  <canvas class="pixel-scene" data-rows="{% if include.compact %}64{% else %}110{% endif %}" aria-hidden="true"></canvas>
+  <div class="pixel-copy">
+    {%- if include.compact -%}
+      <a class="pixel-name" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+    {%- else -%}
+      <h1 class="pixel-name">{{ site.title }}</h1>
+      {%- if site.pixel_header.tagline -%}
+        <p class="pixel-tagline">{{ site.pixel_header.tagline }}</p>
+      {%- endif -%}
+    {%- endif -%}
+    <nav class="pixel-nav" aria-label="Main">
+      {%- for item in site.data.home.navbar_entries -%}
+        <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+      {%- endfor -%}
+    </nav>
+  </div>
+</header>
+<script src="{{ "/assets/js/pixel-header.js" | relative_url }}" defer></script>

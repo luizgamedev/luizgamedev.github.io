@@ -51,7 +51,7 @@ Some of the assets we used before hand were:
 
 * Game Jam Menu Template (<a href="http://u3d.as/hvQ">http://u3d.as/hvQ</a>) : Provided by unity, is is hand because it creates a quick menu for you and configure the audio mixer for music and FX
 
-* Standard Assets (<a href="hhttp://u3d.as/cg6">http://u3d.as/cg6</a>) : Again from Unity, provides a set of basic scripts, animations and other resources. Why make everything again if they provide 2D character movement for free? Off course you need to adapt it for your game, but is a straightforward approach in my opinion.
+* Standard Assets (<a href="http://u3d.as/cg6">http://u3d.as/cg6</a>) : Again from Unity, provides a set of basic scripts, animations and other resources. Why make everything again if they provide 2D character movement for free? Off course you need to adapt it for your game, but is a straightforward approach in my opinion.
 
 <div align="center">
 <figure>

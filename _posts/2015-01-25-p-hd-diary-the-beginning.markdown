@@ -2,7 +2,7 @@
 title: "P.hD Diary - the Beginning"
 modified:
 categories: PhD
-excerpt: “It RUNS! (maybe not)"
+excerpt: "It RUNS! (maybe not)"
 tags: [PCL, Facial Animation, PhD]
 comments: true
 image:
@@ -16,7 +16,7 @@ What is my project? That’s a hard question to respond in less than one year in
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/DBoChIFrj2c" frameborder="0" allowfullscreen></iframe>
 
-It is a 2013 Siggraph’s paper about realtime acquisition and avatar animation. The full paper is <a href="http://lgg.epfl.ch/publications/2013/MIG.pdf'http://lgg.epfl.ch/publications/2013/MIG.pdf">here</a>. This opened my mind to the real state of the technology. We not only don’t need points anymore, but also has much more data to deal with. 
+It is a 2013 Siggraph’s paper about realtime acquisition and avatar animation. The full paper is <a href="http://lgg.epfl.ch/publications/2013/MIG.pdf">here</a>. This opened my mind to the real state of the technology. We not only don’t need points anymore, but also has much more data to deal with. 
 
 The work is just in the beginning. My idea is to fill the blog with some of the stuff I’ve been researching and also exploring Tools and Techniques that I study.
 

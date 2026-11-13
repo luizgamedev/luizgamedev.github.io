@@ -1,0 +1,17 @@
+{%- comment -%}
+  Finds an album's photos. Sets `album_photos` (full-size files, sorted by name)
+  and `album_folder`. Photos live in /assets/photos/<folder>/ with thumbnails of
+  the same name in /assets/photos/<folder>/thumbs/. The folder is the album's
+  `photo_folder` setting, or its file name turned into a slug
+  ("2022-05 Barcelona.md" -> 2022-05-barcelona).
+{%- endcomment -%}
+{%- assign album_folder = include.album.photo_folder | default: include.album.slug | slugify -%}
+{%- assign album_prefix = "/assets/photos/" | append: album_folder | append: "/" -%}
+{%- assign album_photos = "" | split: "" -%}
+{%- for file in site.static_files -%}
+  {%- assign file_dir = file.path | remove: file.name -%}
+  {%- if file_dir == album_prefix -%}
+    {%- assign album_photos = album_photos | push: file -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign album_photos = album_photos | sort: "name" -%}

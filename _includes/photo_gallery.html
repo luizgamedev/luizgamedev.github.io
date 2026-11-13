@@ -1,0 +1,14 @@
+{%- include album_photos.html album=page -%}
+<ul class="photo-grid" data-gallery>
+  {%- for photo in album_photos -%}
+    {%- assign caption = page.captions[photo.name] -%}
+    <li>
+      <a href="{{ photo.path | relative_url }}"{% if caption %} data-caption="{{ caption | escape }}"{% endif %}>
+        <img src="{{ album_prefix | append: 'thumbs/' | append: photo.name | relative_url }}"
+             alt="{% if caption %}{{ caption | escape }}{% else %}{{ page.title | escape }}, photo {{ forloop.index }}{% endif %}"
+             loading="lazy" decoding="async">
+      </a>
+    </li>
+  {%- endfor -%}
+</ul>
+<script src="{{ "/assets/js/lightbox.js" | relative_url }}" defer></script>

@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% include back_link.html url="/photograph/" label="Back to photography" %}
+<h1 class="post-title">{{ page.title }}</h1>
+<div class="post-meta">
+  {%- assign album_excerpt = page.excerpt | strip_html | strip -%}
+  {% if album_excerpt != "" %}<p class="album-excerpt">{{ album_excerpt }}</p>{% endif %}
+  <div class="post-meta-line">
+    <time class="post-meta-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %Y" }}</time>
+  </div>
+</div>
+
+{% include album_photos.html album=page %}
+{% if album_photos.size > 0 %}
+  {%- comment -%}
+    Albums made with Photo Resizer set photo_folder, and their text is a description.
+    Older albums held a Flickr embed, which the local photos replace.
+  {%- endcomment -%}
+  {% if page.photo_folder %}
+    <div class="post-content album-text">
+      {{ content }}
+    </div>
+  {% endif %}
+  {% include photo_gallery.html %}
+{% else %}
+  <div class="album-embed">
+    {{ content }}
+  </div>
+{% endif %}

@@ -1,0 +1,10 @@
+{%- if site.adsense.client and jekyll.environment == "production" -%}
+<div class="ad-slot">
+  <ins class="adsbygoogle" style="display:block"
+       data-ad-client="{{ site.adsense.client }}"
+       data-ad-slot="{{ site.adsense.slot }}"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{%- endif -%}

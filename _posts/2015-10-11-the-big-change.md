@@ -2,7 +2,7 @@
 title: "The Big Change"
 modified:
 categories: Personal
-excerpt: “Sometimes, changing is necessary"
+excerpt: "Sometimes, changing is necessary"
 tags: [Personal]
 comments: true
 image:

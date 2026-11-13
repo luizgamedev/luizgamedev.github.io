@@ -27,15 +27,15 @@ I assume that everyone here has a Mac with Xcode installed and configured. Also,
 
 First things first, lets install brew. It pretty simple, just open a terminal window and type:
 
-{% highlight bash lineos %}
+```bash
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-{% endhighlight %}
+```
 
 This will automatically get and install all the necessary binaries to run the package. After installing, I’ve made a simple config to use sudo with brew because of some permission errors I was having in my machine. This is totally optional, but if you face these problems just type:
 
-{% highlight bash lineos %}
+```bash
 sudo chown root:wheel `which brew`
-{% endhighlight %}
+```
 
 ### Installing PCL Dependencies
 
@@ -50,17 +50,17 @@ Before installing PCL, there are some dependencies that you must install ( and m
 
 One of the good things of using a package manager is that is easy to find and trigger an installation of all these dependencies. In brew, you must “tap” two repositories and before installing these packages. The commands are:
 
-{% highlight bash lineos %}
+```bash
 sudo brew update
 sudo brew tap homebrew/science
 sudo brew tap totakke/openni2
-{% endhighlight %}
+```
 
 It will download some git repositories with information about those packages. Finally, to install the dependencies just type:
 
-{% highlight bash lineos %}
+```bash
 sudo brew install -vd sip pyqt libusb cmake boost flann qhull glew qt vtk openni openni2 openni2-freenectdriver
-{% endhighlight %}
+```
 
 It will take a long time, enjoy a good book in the middle time =)
 
@@ -68,9 +68,9 @@ It will take a long time, enjoy a good book in the middle time =)
 
 Similar to the previous step, now we just have to tell brew to install PCL with the command:
 
-{% highlight bash lineos %}
+```bash
 sudo brew install -vd pcl --HEAD --with-openni --with-examples
-{% endhighlight %}
+```
 
 Just a little parentheses here. The option "—HEAD” says that it gonna get the HEAD of PCL repository, which is now PCL 1.8. In their website, the downloadable version is 1.6. I had a lot of trouble using the 1.6 under Yosemite, so I do not recommend using it. The “--with-openni” option will assume that you’re gonna use this library with PCL ( which is optional, but mandatory if you’d like to use Kinect Viewer ).
 
@@ -80,10 +80,10 @@ Again, grab a good book and wait for a long compile time.
 
 If everything went well ( and I hope it did ), there’s some post configs you must do. For OpenNi 2 libs you must export some environments vars using:
 
-{% highlight bash lineos %}
+```bash
 export OPENNI2_INCLUDE=/usr/local/include/ni2
 export OPENNI2_REDIST=/usr/local/lib/ni2
-{% endhighlight %}
+```
 
 You might want to put these commands on your ~/.bash_profile as well to avoid doing this command again.
 
@@ -91,7 +91,7 @@ You might want to put these commands on your ~/.bash_profile as well to avoid do
 
 Following the <a href="http://pointclouds.org/documentation/tutorials/openni_grabber.php#openni-grabber">Kinect Example</a> found in their site, and making some few modifications, lets make a simple test just to show Kinect’s video. Create a file called open_viewer_simple.cpp with the following code:
 
-{% highlight cpp lineos %}
+```cpp
 #include <pcl/io/openni_grabber.h>
 #include <pcl/visualization/cloud_viewer.h>
 
@@ -134,11 +134,11 @@ Following the <a href="http://pointclouds.org/documentation/tutorials/openni_gra
    v.run ();
    return 0;
  }
-{% endhighlight %}
+```
 
 And also, a CMakeLists.txt in the same folder with the following content:
 
-{% highlight bash lineos %}
+```bash
 cmake_minimum_required(VERSION 2.8 FATAL_ERROR)
 
 project(openni_grabber)
@@ -159,22 +159,22 @@ IF (APPLE)
   ENDIF (APPLE)
 add_executable (openni_grabber openni_viewer_simple.cpp)
 target_link_libraries (openni_grabber ${PCL_LIBRARIES})
-{% endhighlight %}
+```
 
 Another parentheses here. I added the IF(APPLE) section because somehow make was getting a different configuration for GLEW which broke the compilation. This block is to make sure the the flag “-lGLEW” is called instead of “-framework GLEW”. Since we’ve installed everything via brew, this is the right way to call GLEW library
 
 Now let’s build everything. In a terminal type:
 
-{% highlight bash lineos %}
+```bash
 mkdir build
 cd build
 cmake ..
-{% endhighlight %}
+```
 
 In the build folder you may have an executable called “openni_grabber”. Just execute it typing:
-{% highlight bash lineos %}
+```bash
 ./openni_grabber
-{% endhighlight %}
+```
 
 ## Conclusions
 

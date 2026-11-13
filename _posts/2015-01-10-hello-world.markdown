@@ -12,15 +12,14 @@ date: 2015-01-10T22:01:04-02:00
 
 I think that I have no powers to overhelm such a big tradition, so...
 
-{% highlight c %}
+```c
 #include <stdio.h>
 
 int main ( void ){
      printf("Hello World!\n");
      return 0;     // Returns Safely =)
 }
-
-{% endhighlight %}
+```
 
 Why C? Even though I have been exposed to many others and generally work with another language I also come back to it. I had some friends at college that used to hate it, they say "That language that has that * also creeps the hell of me".
 

@@ -1,0 +1,424 @@
+// Neutral near-black palette. Moonwalk's default dark has a blue tint that
+// competes with photographs.
+html[data-theme="dark"],
+html[data-theme="dark"] body {
+  --bg: #0e0e0f;
+  --bg-secondary: #1c1c1e;
+  --bg-subtle: #151516;
+  --headings: #f4f4f5;
+  --text: #d4d4d8;
+  --text-secondary: #9a9aa2;
+  --links: #d8b872;
+  --highlight: #d8b872;
+  --code-text: #e4c98f;
+  --share-text: #9a9aa2;
+  --border: rgba(255, 255, 255, 0.12);
+  --border-subtle: rgba(255, 255, 255, 0.07);
+  color-scheme: dark;
+}
+
+.site-nav {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+
+  .horizontal-list {
+    margin: 0;
+    gap: 0.4em 0.8em;
+  }
+
+  .horizontal-list li:not(.card) {
+    margin-right: 0;
+  }
+}
+
+.page-content .site-logo img {
+  display: block;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: none;
+}
+
+.page-content img.avatar {
+  width: 160px;
+  height: 160px;
+  margin: 0 0 1.5em;
+  border-radius: 50%;
+}
+
+// Old posts embed fixed-size YouTube players and figures.
+.post-content {
+  overflow-wrap: anywhere;
+
+  iframe {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    margin: 1.5em 0;
+    border: 0;
+    border-radius: var(--radius-md);
+  }
+
+  figure {
+    margin: 2em 0;
+  }
+
+  figcaption {
+    margin-top: 0.6em;
+    color: var(--text-secondary);
+    font-size: 0.85em;
+    text-align: center;
+  }
+}
+
+.album-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25em;
+  margin: 2em 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    margin: 0;
+  }
+
+  a {
+    display: block;
+    color: var(--text);
+    text-decoration: none;
+  }
+
+  a:hover .album-title {
+    color: var(--links);
+  }
+
+  img {
+    width: 100%;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+    background-color: var(--bg-subtle);
+  }
+
+  .album-title {
+    display: block;
+    margin-top: 0.55em;
+    font-family: var(--font-sans);
+    font-size: 0.9em;
+    font-weight: 500;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .album-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+.album-excerpt {
+  margin: 0 0 0.75em;
+  color: var(--text-secondary);
+}
+
+.album-embed {
+  img,
+  iframe {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+
+  iframe {
+    aspect-ratio: 4 / 3;
+    border: 0;
+  }
+}
+
+.ad-slot {
+  margin: 3em 0 0;
+}
+
+.year-section h2 {
+  margin-bottom: 0.3em;
+}
+
+// ---------------- Pixel Dublin header ----------------
+.pixel-header {
+  display: grid;
+  margin: 0 0 2.5em;
+  padding: 0;
+  border: 0;
+  // Dusk gradient shows until the scene is drawn, or if JavaScript is off.
+  background: linear-gradient(to bottom, #0b0d1c 0%, #161a33 25%, #3b2a5c 50%, #c2457a 68%, #171330 74%, #0d1024 100%);
+  overflow: hidden;
+
+  > * {
+    grid-area: 1 / 1;
+    min-width: 0;
+  }
+}
+
+.page-content .pixel-scene {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 0;
+  box-shadow: none;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+
+  &.is-ready {
+    opacity: 1;
+  }
+}
+
+.pixel-copy {
+  position: relative;
+  align-self: start;
+  display: grid;
+  gap: 0.45em;
+  padding: clamp(14px, 3.5vw, 28px) clamp(16px, 5vw, 36px) 1.5em;
+  text-shadow: 3px 3px 0 #0b0d1c;
+}
+
+.pixel-name {
+  margin: 0;
+  font-family: "Press Start 2P", ui-monospace, monospace;
+  font-size: clamp(16px, 3.6vw, 28px);
+  font-weight: 400;
+  line-height: 1.35;
+  letter-spacing: 0;
+  color: #f2e6c9;
+}
+
+.pixel-tagline {
+  margin: 0;
+  font-family: "Handjet", var(--font-mono, monospace);
+  font-size: clamp(18px, 2.5vw, 22px);
+  line-height: 1.2;
+  color: #ef8a4c;
+}
+
+.pixel-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.15em 1.1em;
+  margin-top: 0.3em;
+  font-family: "Handjet", var(--font-mono, monospace);
+  font-size: clamp(19px, 2.6vw, 23px);
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.page-content .pixel-header a {
+  color: #f2e6c9;
+  background-image: none;
+  text-decoration: none;
+}
+
+.page-content .pixel-header .pixel-nav a {
+  padding-bottom: 1px;
+  border-bottom: 2px solid transparent;
+
+  &:hover,
+  &:focus-visible {
+    color: #d8b872;
+    border-bottom-color: #d8b872;
+  }
+
+  &[aria-current="page"] {
+    color: #ef8a4c;
+    border-bottom-color: #ef8a4c;
+  }
+}
+
+.page-content .pixel-header a.pixel-name {
+  font-size: clamp(13px, 2.6vw, 18px);
+
+  &:hover {
+    color: #d8b872;
+  }
+}
+
+.page-title {
+  margin-top: 0;
+}
+
+// ---------------- Photo albums ----------------
+.album-text {
+  margin-bottom: 1.5em;
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 6px;
+  margin: 2em 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    margin: 0;
+  }
+
+  a {
+    display: block;
+    overflow: hidden;
+    background-color: var(--bg-subtle);
+  }
+
+  .page-content & img {
+    width: 100%;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+    border-radius: 0;
+    box-shadow: none;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+
+  a:hover img,
+  a:focus-visible img {
+    transform: scale(1.03);
+  }
+
+  a:focus-visible {
+    outline: 2px solid var(--links);
+    outline-offset: 2px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .photo-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 4px;
+  }
+}
+
+.lightbox-open,
+.lightbox-open body {
+  overflow: hidden;
+}
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: max(48px, env(safe-area-inset-top)) max(56px, env(safe-area-inset-right)) max(24px, env(safe-area-inset-bottom)) max(56px, env(safe-area-inset-left));
+  background: #080809;
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+.lightbox-figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75em;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.lightbox .lightbox-img {
+  display: block;
+  max-width: 100%;
+  max-height: calc(100% - 3em);
+  margin: 0;
+  object-fit: contain;
+  border-radius: 0;
+  box-shadow: none;
+  transition: opacity 0.2s ease;
+
+  &.is-loading {
+    opacity: 0.35;
+  }
+}
+
+.lightbox-caption {
+  max-width: 60ch;
+  color: #d4d4d8;
+  font-size: 0.9em;
+  text-align: center;
+}
+
+.lightbox-count {
+  position: absolute;
+  top: max(14px, env(safe-area-inset-top));
+  left: max(18px, env(safe-area-inset-left));
+  margin: 0;
+  color: #9a9aa2;
+  font-family: "Press Start 2P", ui-monospace, monospace;
+  font-size: 10px;
+}
+
+.lightbox-btn {
+  position: absolute;
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: #f2e6c9;
+  font-size: 34px;
+  line-height: 1;
+  cursor: pointer;
+
+  &:hover,
+  &:focus-visible {
+    color: #d8b872;
+  }
+
+  &:focus-visible {
+    outline: 2px solid #d8b872;
+  }
+}
+
+.lightbox-close {
+  top: max(6px, env(safe-area-inset-top));
+  right: max(6px, env(safe-area-inset-right));
+}
+
+.lightbox-prev,
+.lightbox-next {
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 46px;
+}
+
+.lightbox-prev {
+  left: max(6px, env(safe-area-inset-left));
+}
+
+.lightbox-next {
+  right: max(6px, env(safe-area-inset-right));
+}
+
+@media screen and (max-width: 600px) {
+  .lightbox {
+    padding-left: max(8px, env(safe-area-inset-left));
+    padding-right: max(8px, env(safe-area-inset-right));
+    padding-bottom: max(72px, env(safe-area-inset-bottom));
+  }
+
+  .lightbox-prev,
+  .lightbox-next {
+    top: auto;
+    bottom: max(10px, env(safe-area-inset-bottom));
+    transform: none;
+  }
+}

@@ -1,0 +1,19 @@
+{% assign albums = site.photograph | sort: "date" | reverse %}
+<ul class="album-grid">
+  {% for album in albums %}
+    {%- include album_photos.html album=album -%}
+    {%- if album.cover -%}
+      {%- assign cover = album.cover -%}
+    {%- elsif album_photos.size > 0 -%}
+      {%- assign cover = album_prefix | append: "thumbs/" | append: album_photos.first.name -%}
+    {%- else -%}
+      {%- assign cover = album.image -%}
+    {%- endif -%}
+    <li>
+      <a href="{{ album.url | relative_url }}">
+        <img src="{{ cover | relative_url }}" alt="" loading="lazy" decoding="async">
+        <span class="album-title">{{ album.title }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>

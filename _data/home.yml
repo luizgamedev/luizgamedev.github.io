@@ -1,0 +1,15 @@
+navbar_entries:
+  - title: blog
+    url: /year-archive/
+  - title: about
+    url: /about/
+  - title: photography
+    url: /photograph/
+
+footer_entries:
+  - title: email
+    url: mailto:contact@luiz-santos.com
+  - title: linkedin
+    url: https://www.linkedin.com/in/luizgosantos/
+  - title: feed
+    url: /feed.xml
