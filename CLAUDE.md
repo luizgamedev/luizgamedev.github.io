@@ -50,8 +50,12 @@ There is no Gemfile.lock yet; the first `bundle install` creates it. Commit it.
 
 ## Open items
 
-- First deploy: Pages source must be "GitHub Actions" and the custom domain set
-  in Settings > Pages. DNS for luiz-santos.com, and a redirect from kaze.io.
+- DNS: Pages is set to GitHub Actions with custom domain luiz-santos.com, and
+  the first deploy worked. luiz-santos.com DNS is at Fastmail (keep the MX
+  records for email) and still points at Fastmail's web hosting: it needs the
+  GitHub Pages A records and `www` CNAME luizgamedev.github.io, then "Enforce
+  HTTPS". kaze.io (GoDaddy) still points at GitHub; set it to forward to
+  https://luiz-santos.com.
 - Add luiz-santos.com to AdSense.
 - The "2019-08 London" album embeds the Berlin Flickr album by mistake.
 - Barcelona header image has "kaze.io" burned into it.
