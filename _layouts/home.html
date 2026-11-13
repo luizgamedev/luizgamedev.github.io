@@ -8,7 +8,7 @@ layout: default
 
 {% if site.theme_config.show_blog == true %}
   <h2 class="section-label">{{ site.theme_config.home.title_blog }}</h2>
-  {% include post_list.html %}
+  {% include post_list.html heading="h3" %}
 {% endif %}
 
 {% if site.theme_config.show_footer == true %}

@@ -1,0 +1,20 @@
+{%- comment -%}
+  Posts grouped by year, newest first. Overrides the theme's flat post list so the
+  home page and /year-archive/ look the same. Pass heading="h3" when the list
+  sits under another h2 (the home page's "Blog" label).
+{%- endcomment -%}
+{%- assign heading = include.heading | default: "h2" -%}
+{%- assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" -%}
+{%- for year in years %}
+  <section class="year-section">
+    <{{ heading }} id="{{ year.name }}">{{ year.name }}</{{ heading }}>
+    <ul>
+      {%- for post in year.items %}
+        <li class="post-list-item">
+          <span class="home-date">{{ post.date | date: site.theme_config.date_format }}&raquo;</span>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+      {%- endfor %}
+    </ul>
+  </section>
+{%- endfor %}
