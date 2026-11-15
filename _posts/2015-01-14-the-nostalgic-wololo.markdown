@@ -64,8 +64,7 @@ For me, one of the coolest thing in the game was the ending screen. We found som
 
 One thing that I cannot leave without mentions was the sounds during the game. They were really rich and various with a lot of acting on it. When I was in battle that were a lot of random death sounds at the same time giving the sense of action and motion on it. It is surely one of the best features in the game. The ideia of immersion was not so well defined that time. during a game you barely notice all those tweaks, but if people try to play in a mute mode you’d have that “there’s something missing” feeling.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/2oTUvjgvVWE" frameborder="0" allowfullscreen>
-</iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=2oTUvjgvVWE" rel="noopener">&#9654; Watch the video on YouTube</a></p>
 
 ## Multiplayer
 

@@ -9,7 +9,7 @@ image:
   feature:
 date: 2016-02-02T16:00:01+00:00
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_31I5EgdLmQ" frameborder="0" allowfullscreen></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=_31I5EgdLmQ" rel="noopener">&#9654; Watch the video on YouTube</a></p>
 
 It’s been a while since my last post, sorry about that =)
 

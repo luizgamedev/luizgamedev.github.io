@@ -1,56 +1,26 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
-last_modified_at: 2017-10-20T12:42:38-04:00
-toc: true
+title: "Privacy and Terms"
+last_modified_at: 2026-11-15
 ---
 
-## Privacy Policy
+## Privacy
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+This site doesn't track you.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+- **No ads, analytics or tracking.** There are no ad networks, no Google Analytics, no tracking pixels and no third-party scripts.
+- **No cookies.** The site doesn't set any.
+- **Nothing loads from other sites.** Fonts and images are served from this site. Videos and photo albums are plain links, so YouTube or Flickr only see you if you click through.
+- **Hosting.** The site is hosted on GitHub Pages. Like any web server, GitHub records basic request data such as IP addresses for security and operations. See the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+- **Email.** If you write to me, I'll only use your message to reply. I won't share your address with anyone.
 
-### Log Files
+## AI and automated collection
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+The text and photos on this site may not be used to train, fine-tune or feed AI systems, or be collected by scrapers for that purpose.
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+- AI crawlers are blocked in [robots.txt](/robots.txt), and every page carries `noai` and `noimageai` tags.
+- Under Article 4 of the EU Directive on Copyright in the Digital Single Market (2019/790), I reserve the rights to text and data mining of this site. Every page signals this with a `tdm-reservation` tag.
 
-All of this information is not linked to anything that is personally identifiable.
+## Copyright
 
-### Cookies and Web Beacons
-
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
-
-#### Google Adsense
-
-Google Adsense, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).
-
-## Disclosure Policy
-
-I make money on this website through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this website because I'll get a percentage of that sale.
-
-Currently I'm an affiliate for Amazon and Google Adsense.
-
-What this means for you:
-
-* I became an affiliate to earn revenue towards the costs of running and maintaining this website. Where I have direct control over which ads are served on this website I offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
-* I do not and will not recommend a product just for the sake of making money.
-* I do not let the compensation I receive influence the content, topics, posts, or opinions expressed on this website.
-* I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
-
-Just like this website, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
+Text and photos are © Luiz Santos, all rights reserved, unless a post says otherwise. Please ask before reusing them. Quoting a short excerpt with a link back is fine.

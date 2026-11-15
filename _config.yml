@@ -53,11 +53,6 @@ pixel_header:
 # Moonwalk turns on Soopr share buttons and a credit by default. Leave this off.
 soopr: false
 
-# Google AdSense, carried over from the old site. Remove this block to drop ads.
-adsense:
-  client: "ca-pub-7328585512091257"
-  slot: "3049671934"
-
 # Content. These permalinks match the old site, so existing links keep working.
 permalink: /:categories/:title/
 excerpt_separator: "\n\n"
@@ -118,5 +113,10 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-soopr-seo-tag
-  - jekyll-markdown-output
-  - jekyll-llms-output
+
+# Moonwalk loads these two plugins by itself. They publish llms.txt and Markdown
+# copies of every post for AI tools, so keep them switched off.
+llms_output:
+  enabled: false
+markdown_output:
+  enabled: false

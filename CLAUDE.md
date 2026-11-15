@@ -10,7 +10,7 @@ reintroduce kaze.io anywhere).
 
     bundle install
     bundle exec jekyll serve          # http://localhost:4000
-    JEKYLL_ENV=production bundle exec jekyll build   # ads only render in production
+    JEKYLL_ENV=production bundle exec jekyll build
 
 There is no Gemfile.lock yet; the first `bundle install` creates it. Commit it.
 
@@ -26,10 +26,43 @@ There is no Gemfile.lock yet; the first `bundle install` creates it. Commit it.
   `_sass/site.scss`. Full size on the home page, `compact=true` on other pages.
   Posts and albums use a back arrow instead. The script keeps the moon and
   chimneys below the text, pauses when off screen, and stays still for
-  reduced-motion users. Fonts: Press Start 2P and Handjet from Google Fonts.
+  reduced-motion users. Fonts (Press Start 2P, Handjet, IBM Plex Sans/Mono) are
+  self-hosted WOFF2 files in `assets/fonts/`, declared in `_sass/fonts.scss`.
 - Permalinks match the old Minimal Mistakes site (`/:categories/:title/`,
   `/photograph/<file name>/`) so old links keep working. Don't change them.
-- AdSense client/slot are in `_config.yml` under `adsense`.
+
+## Privacy: no tracking, no ads, no AI
+
+Luiz wants the site free of Google, ads, tracking and AI scraping. Keep it that way:
+
+- No third-party requests on page load: no ads, analytics, tag managers, Google
+  Fonts, CDNs, iframes or embed scripts. Host fonts, images and scripts in the
+  repo. Videos and Flickr albums are plain links (`.video-link`, `.album-link`).
+- AI blocking: `robots.txt` disallows AI crawlers (search engines are allowed),
+  `_includes/head.html` adds `noai, noimageai` and `tdm-reservation` meta tags.
+  Moonwalk loads jekyll-llms-output and jekyll-markdown-output itself; they stay
+  disabled in `_config.yml` (`llms_output` / `markdown_output: enabled: false`).
+- `/terms/` is the privacy page and describes all of this; update it if
+  anything changes.
+- Check after changes: build with `JEKYLL_ENV=production` and grep `_site` for
+  external `src=` / `<link href=` hosts; only luiz-santos.com should appear.
+
+## Writing posts
+
+Luiz brainstorms posts in chat with Claude, then publishes them when ready.
+
+- Drafts go in `_drafts/<slug>.md` (no date in the name; never published).
+  Preview with `bundle exec jekyll serve --drafts`. Luiz may edit drafts
+  directly, so re-read before changing one.
+- Keep drafts uncommitted: the repo is public, so committed drafts are readable
+  on GitHub.
+- To publish: move to `_posts/YYYY-MM-DD-<slug>.md`, set `date`, check
+  `bundle exec jekyll build`, commit and push to `master`, then confirm the
+  Pages deploy finished.
+- Front matter: `title`, `date`, `categories`, `tags`, `excerpt`. The category
+  is part of the URL (`/:categories/:title/`), so use one per post (old posts
+  use `Personal`) and never change it after publishing.
+- Post images go in `assets/images/posts/<slug>/`, resized for the web.
 
 ## Photo albums
 
@@ -40,8 +73,10 @@ There is no Gemfile.lock yet; the first `bundle install` creates it. Commit it.
 - `_includes/album_photos.html` finds the photos, `photo_gallery.html` renders the
   grid, `assets/js/lightbox.js` is the full-screen viewer (keys, swipe, focus trap).
   Order is file-name order; optional `captions:` map in front matter by file name.
-- Albums with local photos show the gallery and hide any old Flickr embed. Albums
-  without photos still show their Flickr embed. Luiz no longer uses Flickr.
+- Albums with local photos show the gallery and hide the old album text. Albums
+  without photos show a self-hosted cover (`assets/images/albums/<slug>.jpg`,
+  also set as `cover:` and `image:`) and a plain link to the Flickr album.
+  Luiz no longer uses Flickr.
 - `tools/photo-resizer/` is a macOS AppleScript droplet that resizes photos into
   those folders, strips EXIF/GPS, and creates new album pages. Built with
   `osacompile`. It has not been run on a Mac yet; expect to debug it with Luiz.
@@ -56,8 +91,7 @@ There is no Gemfile.lock yet; the first `bundle install` creates it. Commit it.
   GitHub Pages A records and `www` CNAME luizgamedev.github.io, then "Enforce
   HTTPS". kaze.io (GoDaddy) still points at GitHub; set it to forward to
   https://luiz-santos.com.
-- Add luiz-santos.com to AdSense.
-- The "2019-08 London" album embeds the Berlin Flickr album by mistake.
+- The "2019-08 London" album links to the Berlin Flickr album and uses its cover by mistake.
 - Barcelona header image has "kaze.io" burned into it.
 - Posts still link to Luiz's old GitHub projects (github.com/kazenotenshi/...)
   inside the text. Those were left in when the profile links were removed.

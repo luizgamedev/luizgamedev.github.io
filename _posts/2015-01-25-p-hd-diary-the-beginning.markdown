@@ -14,7 +14,7 @@ Since this is a personal blog, I’ll try to do some stuff as a journal like as 
 
 What is my project? That’s a hard question to respond in less than one year in the P.hD. I’ve submitted a project to start working with Facial Animation using new capture techniques such as Kinect. Why? Well, I was looking into mocap research when I faced this article:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/DBoChIFrj2c" frameborder="0" allowfullscreen></iframe>
+<p class="video-link"><a href="https://www.youtube.com/watch?v=DBoChIFrj2c" rel="noopener">&#9654; Watch the video on YouTube</a></p>
 
 It is a 2013 Siggraph’s paper about realtime acquisition and avatar animation. The full paper is <a href="http://lgg.epfl.ch/publications/2013/MIG.pdf">here</a>. This opened my mind to the real state of the technology. We not only don’t need points anymore, but also has much more data to deal with. 
 
